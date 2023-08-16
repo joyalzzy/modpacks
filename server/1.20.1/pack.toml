@@ -1,0 +1,12 @@
+name = ""
+version = "1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "ff4304c8aaf7ecb0091fc914f6355d78bbe227e33a39c8adb89a81773fc51ea0"
+
+[versions]
+minecraft = "1.20.1"
+quilt = "0.17.5-beta.2"

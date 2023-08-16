@@ -1,0 +1,14 @@
+name = "Visual Overhaul"
+filename = "visualoverhaul-fabric-5.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6f6bb210cfb10d0e357ad63249eeaa76b541c04f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4580059
+project-id = 432008
+release-channel = "beta"

@@ -1,0 +1,13 @@
+name = "Redstone Beacon Base"
+filename = "purpurpacks-redstone-beacon-base-1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/I2neFSkP/versions/Ke5FCQI4/purpurpacks-redstone-beacon-base-1.0.jar"
+hash-format = "sha512"
+hash = "476db421c0828a99097a386d72cd8d19e97f8c74ad97b6bd81f96ddd9736329788b35e41d9efc502fab5b90940256c476a4276c35f50ba1ac1588e72524a5def"
+
+[update]
+[update.modrinth]
+mod-id = "I2neFSkP"
+version = "Ke5FCQI4"

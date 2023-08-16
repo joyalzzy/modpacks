@@ -1,0 +1,14 @@
+name = "Foodables"
+filename = "foodables-1.0.1-1.20+.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a0412e9301082a66e6372e1020f5f2f2cc7aa2a7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4611435
+project-id = 496631
+release-channel = "beta"

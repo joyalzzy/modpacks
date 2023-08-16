@@ -1,0 +1,13 @@
+name = "Solas V1.5b"
+filename = "Solas V1.5b.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/EpQFjzrQ/versions/YZMWbh4h/Solas%20V1.5b.zip"
+hash-format = "sha512"
+hash = "f474e2f5d395155a9fc9d4abb47d38e00c004a49e023fc89846d01e7db88da7a6d496eeac25ced29bb1c4aebb14858ec5598d83b578b8a9af50ca6275b651d89"
+
+[update]
+[update.modrinth]
+mod-id = "EpQFjzrQ"
+version = "YZMWbh4h"

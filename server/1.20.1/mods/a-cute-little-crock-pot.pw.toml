@@ -1,0 +1,14 @@
+name = "A Cute Little Crock Pot"
+filename = "crockpot-1.13.3+1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8e05bbcada4e90396ab95474e50b87487ed5764c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4602805
+project-id = 576920
+release-channel = "beta"

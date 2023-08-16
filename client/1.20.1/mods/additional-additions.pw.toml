@@ -1,0 +1,14 @@
+name = "Additional Additions | Fabric"
+filename = "AdditionalAdditions-6.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "38c181f354f5ea065ec4919de233ac017b238506"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4684462
+project-id = 508556
+release-channel = "beta"

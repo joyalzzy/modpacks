@@ -1,0 +1,13 @@
+name = "Balanced Weapons"
+filename = "balanced-weapons-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/dD3Ehzqi/versions/15uDPuLG/balanced-weapons-1.0.0.jar"
+hash-format = "sha512"
+hash = "548c8feec2bd9c96bdceb26f23fd6ea53df7f1c77fc1e6d088b495729feb8efb763e7dfb7637a4b20de187aabcb391ea5819155ff61fba4fa627c2106f4d7894"
+
+[update]
+[update.modrinth]
+mod-id = "dD3Ehzqi"
+version = "15uDPuLG"

@@ -1,0 +1,14 @@
+name = "Soul Bound Enchantment"
+filename = "Soulbound-Fabric-0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ecfb73c6171abfaa2e3cdec5b39fefd8ce6bbd29"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4694806
+project-id = 888668
+release-channel = "beta"

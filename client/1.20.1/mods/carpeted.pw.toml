@@ -1,0 +1,13 @@
+name = "Carpeted"
+filename = "carpeted-1.20-1.4-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Ogzlp7me/versions/YRmV0sQc/carpeted-1.20-1.4-fabric.jar"
+hash-format = "sha512"
+hash = "0c5f227e9c8a644de7c0c93050b191467da333aa740d664aaa15bb893e154cef70bcde3a3738b00c7a58f1ee157c5cdc5b105a2fa0b05da3ab070ca2ba360790"
+
+[update]
+[update.modrinth]
+mod-id = "Ogzlp7me"
+version = "YRmV0sQc"

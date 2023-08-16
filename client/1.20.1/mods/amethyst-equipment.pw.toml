@@ -1,0 +1,14 @@
+name = "Amethyst Equipment"
+filename = "amethystequipment-fabric-mc1.20.1-v1.0.10.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2ea73b62dcba455721dbdadc9bee0141cb6c30a3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4662589
+project-id = 514544
+release-channel = "beta"

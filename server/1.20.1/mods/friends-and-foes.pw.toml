@@ -1,0 +1,14 @@
+name = "Friends&Foes (Fabric)"
+filename = "friendsandfoes-fabric-mc1.20.1-1.9.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9e2ee4077e8f94ad592408c6cb7064d00ee8b90e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4639311
+project-id = 551364
+release-channel = "beta"

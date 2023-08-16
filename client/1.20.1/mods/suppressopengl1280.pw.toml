@@ -1,0 +1,13 @@
+name = "Suppress OpenGL Error 1280"
+filename = "suppressopengl1280-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2U4cBE7v/versions/xtm69FAQ/suppressopengl1280-1.0.0.jar"
+hash-format = "sha512"
+hash = "454ffb3be1f78b3b396fb6aac0d9630b0b1f4bc7eefa72dcfb95d44c062134d4b8c97e9b36b958c16816ff2dc31d555212310db15fd62fa1bb5bafbc5e679d72"
+
+[update]
+[update.modrinth]
+mod-id = "2U4cBE7v"
+version = "xtm69FAQ"

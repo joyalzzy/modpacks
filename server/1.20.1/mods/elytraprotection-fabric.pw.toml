@@ -1,0 +1,14 @@
+name = "Elytra Protection (Fabric)"
+filename = "ElytraProtection-1.19-0.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f9c49203b5f89bc2076f75ed2b8fd9a7c5338bb1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4331723
+project-id = 448250
+release-channel = "beta"

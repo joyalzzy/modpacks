@@ -1,0 +1,14 @@
+name = "Elytra Trims Extensions"
+filename = "elytra-trims-extensions-1.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "668e71d57d6b77898b8972b3440eb167242cd07c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4611205
+project-id = 876856
+release-channel = "beta"

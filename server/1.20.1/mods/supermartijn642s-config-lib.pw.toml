@@ -1,0 +1,14 @@
+name = "SuperMartijn642's Config Lib"
+filename = "supermartijn642configlib-1.1.7-fabric-mc1.20.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8473ca52442a5be63adbd5a8dad7728368d302a6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4629803
+project-id = 438332
+release-channel = "beta"

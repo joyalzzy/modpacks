@@ -1,0 +1,13 @@
+name = "Breakfast!"
+filename = "breakfast-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DOPwoSbn/versions/6y6ppast/breakfast-1.0.0.jar"
+hash-format = "sha512"
+hash = "d6e87a8e3f02a025306fe2b4fb143f531428932a8065076e9ec2c0f37acacbc38d3aaa9e70a1d181bdf84f0e66518dc983d7cc8c7c86b0ececce4eb32bce6423"
+
+[update]
+[update.modrinth]
+mod-id = "DOPwoSbn"
+version = "6y6ppast"

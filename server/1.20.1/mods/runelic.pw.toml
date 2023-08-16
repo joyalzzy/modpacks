@@ -1,0 +1,14 @@
+name = "Runelic"
+filename = "Runelic-Fabric-1.20.1-18.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ba2d1594d76922cf8b46ad2e6c661d1240c9a32d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4648306
+project-id = 393149
+release-channel = "beta"

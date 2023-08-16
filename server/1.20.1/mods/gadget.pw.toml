@@ -1,0 +1,13 @@
+name = "gadget"
+filename = "gadget-0.2.1+1.20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/UoGtUh98/versions/MKKqcbV8/gadget-0.2.1%2B1.20.jar"
+hash-format = "sha512"
+hash = "e26e7858b4733e6c30c5c683b873026187f5cdcf494cd42f8cca7a72d807749edd91b4925f6be18785be8f2f1008e32627849bc9242b5629579becbf43a649dc"
+
+[update]
+[update.modrinth]
+mod-id = "UoGtUh98"
+version = "MKKqcbV8"

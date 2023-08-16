@@ -1,0 +1,14 @@
+name = "Shiny Horses - Enchantable Horse Armor"
+filename = "shinyhorses-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "913c0398d713c1ca88cfbf582d10ca2e4ade779b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4671529
+project-id = 648907
+release-channel = "beta"

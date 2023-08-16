@@ -1,0 +1,13 @@
+name = "Boss Whackers"
+filename = "bossbashers-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/HQNCq9HG/versions/4SbW4hBw/bossbashers-1.1.0.jar"
+hash-format = "sha512"
+hash = "cfc0f7cfa5931949db314a09642581aae81363bcc060affd89fdbd77b5140cfcfb3a59e5f1095484d82335de1e3b93875af60ce30f2442cab02e0e2f80d2721f"
+
+[update]
+[update.modrinth]
+mod-id = "HQNCq9HG"
+version = "4SbW4hBw"

@@ -1,0 +1,14 @@
+name = "Milk All The Mobs"
+filename = "milkallthemobs-1.20.1-3.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "048ab4c11289f6335352e8252c1a4497551a1746"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4583596
+project-id = 345023
+release-channel = "beta"

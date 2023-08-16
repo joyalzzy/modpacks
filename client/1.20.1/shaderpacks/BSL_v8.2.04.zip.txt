@@ -1,0 +1,3 @@
+#Mon Aug 14 23:18:30 SGT 2023
+shadowDistance=512.0
+shadowMapResolution=3072

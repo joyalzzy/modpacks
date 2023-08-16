@@ -1,0 +1,14 @@
+name = "Lot's More Food [Fabric Edition]"
+filename = "morefood-1.20.1-v0.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "55a7f3e2bab59e1495760233c1d3edf1d6ab0bcb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4690895
+project-id = 895031
+release-channel = "beta"

@@ -1,0 +1,14 @@
+name = "Additional Banners"
+filename = "AdditionalBanners-Fabric-1.20.1-14.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f0a5d0ef7deab8c40732d5a7f89db574ebaadf16"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4648440
+project-id = 230137
+release-channel = "beta"

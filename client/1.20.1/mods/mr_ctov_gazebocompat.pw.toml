@@ -1,0 +1,16 @@
+name = "CTOV - Gazebo compat"
+filename = "ctov-gazebo-compat-1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/wE0hjz4k/versions/tDe5zXNn/ctov-gazebo-compat-1.0.jar"
+hash-format = "sha512"
+hash = "ba0b02f53c0be1e7b163f9089806d0840c7c6673fd3b98d42a8630f5fc89dd627af8f9c4a883c79e5f488ed495141681785be6b66cc3f6d6fbd67751024aebb1"
+
+[update]
+[update.modrinth]
+mod-id = "wE0hjz4k"
+version = "tDe5zXNn"
+
+[option]
+optional = true

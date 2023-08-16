@@ -1,0 +1,14 @@
+name = "Culinaire"
+filename = "culinaire-3.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "363c086a77390a789a45a194b7cdde6014528f90"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4614040
+project-id = 390675
+release-channel = "beta"

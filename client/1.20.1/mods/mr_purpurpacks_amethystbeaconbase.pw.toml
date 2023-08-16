@@ -1,0 +1,13 @@
+name = "Amethyst Beacon Base"
+filename = "purpurpacks-amethyst-beacon-base-1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/EP4tesbZ/versions/cmA5lBT4/purpurpacks-amethyst-beacon-base-1.0.jar"
+hash-format = "sha512"
+hash = "6d1402fd51bdd77e7bea90a7929925ecae55e830aacf4b77827a1f39cc57bd389110db9b327b5ef97844603591681809cf0d8df605f8ac78c4a7ddb8a474d070"
+
+[update]
+[update.modrinth]
+mod-id = "EP4tesbZ"
+version = "cmA5lBT4"

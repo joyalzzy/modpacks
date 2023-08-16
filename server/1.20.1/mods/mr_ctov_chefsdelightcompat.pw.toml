@@ -1,0 +1,13 @@
+name = "CTOV - Chef's delight Compat"
+filename = "ctov-chefs-delight-compat-2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6PJbKvJH/versions/MVTYiQSv/ctov-chefs-delight-compat-2.0.jar"
+hash-format = "sha512"
+hash = "2922dcc2aaffb2e4861b30ca74fc9ad4ef5fd00161d032dc4a4543258f50dc59e8b4c6cadea2c7d1342048be97798637247308203925e9079295db0de633dde0"
+
+[update]
+[update.modrinth]
+mod-id = "6PJbKvJH"
+version = "MVTYiQSv"

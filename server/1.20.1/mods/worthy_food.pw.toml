@@ -1,0 +1,13 @@
+name = "Worthy Food"
+filename = "Worthy-Food-1.2.0-1.20.x-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VmH6bkgA/versions/46t0bFLD/Worthy-Food-1.2.0-1.20.x-fabric.jar"
+hash-format = "sha512"
+hash = "a376b1cbac05c27c6e3bb8d7f462f917ded82fc5d097fffd4ffc10b7e2141eac576e1cc13522b94cebb617285d8dbb12662fed3dcdc5f0bc980cfab5244706e8"
+
+[update]
+[update.modrinth]
+mod-id = "VmH6bkgA"
+version = "46t0bFLD"

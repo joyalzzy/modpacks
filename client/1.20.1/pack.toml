@@ -1,0 +1,13 @@
+name = "smp2.0"
+author = "jo"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "47f00dbb02e7e14973aa495a07a13b3669e52bb45cb03d6dcdbc8300628d4f32"
+
+[versions]
+fabric = "0.14.22"
+minecraft = "1.20.1"

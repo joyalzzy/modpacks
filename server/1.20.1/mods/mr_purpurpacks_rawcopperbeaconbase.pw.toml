@@ -1,0 +1,13 @@
+name = "Raw Copper Beacon Base"
+filename = "purpurpacks-raw-copper-beacon-base-1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ItRpuGf4/versions/FJC0PtqH/purpurpacks-raw-copper-beacon-base-1.0.jar"
+hash-format = "sha512"
+hash = "7baec67390fe309ffd039fcd64fa3ce071a8bb48c0585344872d2c47fe6dad162704dcba55362e28aec0ab97faa9f2d9c6ff32a0219037527d7467caad13aad9"
+
+[update]
+[update.modrinth]
+mod-id = "ItRpuGf4"
+version = "FJC0PtqH"

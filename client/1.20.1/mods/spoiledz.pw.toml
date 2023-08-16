@@ -1,0 +1,14 @@
+name = "SpoiledZ"
+filename = "spoiledz-1.0.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "42a6efb47e016416f227b16c686ab1683de2a43c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4686813
+project-id = 834671
+release-channel = "beta"

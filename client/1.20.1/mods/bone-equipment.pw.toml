@@ -1,0 +1,14 @@
+name = "Bone Equipment"
+filename = "boneequipment-fabric-mc1.20.1-v1.0.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "811ae72ec5ed28c43c9cdcfb1f7591224804cd62"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4666766
+project-id = 508347
+release-channel = "beta"

@@ -1,0 +1,14 @@
+name = "[Let's Do] Candlelight"
+filename = "letsdo-candlelight-fabric-1.2.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0830e74db9c5270f4e8064892a395d849c5c35a0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4695777
+project-id = 846962
+release-channel = "beta"

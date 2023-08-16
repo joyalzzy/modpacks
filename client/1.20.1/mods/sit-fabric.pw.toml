@@ -1,0 +1,14 @@
+name = "Sit (Fabric)"
+filename = "sit-1.20-24.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0740abbaa0860195b8a2ddb8ca86c712cef2eabe"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4573497
+project-id = 328163
+release-channel = "beta"

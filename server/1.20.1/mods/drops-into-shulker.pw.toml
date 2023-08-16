@@ -1,0 +1,13 @@
+name = "Drops into Shulker"
+filename = "drops-into-shulker-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Pk6THAjp/versions/qBNcLmwo/drops-into-shulker-1.1.0.jar"
+hash-format = "sha512"
+hash = "733c558d8cb0f415407e50040c2e97b5b99f841ff0b1b50ff5014f0879945bc6e4b0d330acab2851fddb5cbee6a19e43f572062a76dc678db766d37faee114bd"
+
+[update]
+[update.modrinth]
+mod-id = "Pk6THAjp"
+version = "qBNcLmwo"

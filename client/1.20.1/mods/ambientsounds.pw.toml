@@ -1,0 +1,14 @@
+name = "AmbientSounds 5"
+filename = "AmbientSounds_FABRIC_v5.2.21_mc1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "312a618d1e91d603bcc80a0956360711fc89d150"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4693168
+project-id = 254284
+release-channel = "beta"

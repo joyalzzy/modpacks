@@ -1,0 +1,13 @@
+name = "Raw Gold Beacon Base"
+filename = "purpurpacks-raw-gold-beacon-base-1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/MqaYXlAP/versions/RvPxHfMd/purpurpacks-raw-gold-beacon-base-1.0.jar"
+hash-format = "sha512"
+hash = "503828cfa2c86e79cec76feab715297d3a0d2e2e67d3fc4ba6eb4885c0e1f5b3635e5e0bda0eb39532b7d91a17f80d7edf0a46d3ec3baa0c442fcb7ac1ae50f0"
+
+[update]
+[update.modrinth]
+mod-id = "MqaYXlAP"
+version = "RvPxHfMd"

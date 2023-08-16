@@ -1,0 +1,14 @@
+name = "Food TXF (Forge/Fabric)"
+filename = "foodtxf-1.20.1-1.4.9-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6a3214d6d5d063f954260d99aa8a0b17c2c2ae1f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4673713
+project-id = 650569
+release-channel = "beta"

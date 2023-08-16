@@ -1,0 +1,14 @@
+name = "Exline's Emerald Equipment"
+filename = "emeraldequipment-fabric-mc1.20.1-v1.0.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "82f8338020a360b1567d427b416a8431fea5bfb6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4662614
+project-id = 508549
+release-channel = "beta"

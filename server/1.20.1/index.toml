@@ -5,6 +5,11 @@ file = "icon.png"
 hash = "7e04cc4c4b9a1d8e33d6620e69bccae7c06ed8da41b2f49ae5ee235497306964"
 
 [[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "a7c95abc830068cdbd3adf8ec2ee8135b2eb2685f88fa90adda305f2d01205bc"
+metafile = true
+
+[[files]]
 file = "mods/a-cute-little-crock-pot.pw.toml"
 hash = "2dbed5ad6b61cd819ae18d6990d9e55fce71ef166fac82a13a468ef4093af2c4"
 metafile = true
@@ -77,6 +82,11 @@ metafile = true
 [[files]]
 file = "mods/aquamirae-fabric.pw.toml"
 hash = "1709f9c6ac381319b69c8c77f0f407d800f7f59ebaf707bd876e324c5ca6e091"
+metafile = true
+
+[[files]]
+file = "mods/aquamirae.pw.toml"
+hash = "d0824166a8c4c908887f303857a93d816a8ee9204287ba02b037373536f2c0d1"
 metafile = true
 
 [[files]]
@@ -246,7 +256,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "97846f29524070f34bb4c33ec06d0232eeed83a6c49503ae84494ca20e945ab5"
+hash = "b6348f94ec939f563285dc96683e61da8fc17ab2f2897be2751fa24789513691"
 metafile = true
 
 [[files]]
@@ -435,6 +445,11 @@ hash = "276218cf229146a373cab1042ea9bd5fb972815348093aae0c9c266bebf48087"
 metafile = true
 
 [[files]]
+file = "mods/enchantments-plus.pw.toml"
+hash = "60e1f4b4b7163c74d7b12deb2f2c661b06f8e596dcaca96c30d4f2c1fca1cf2b"
+metafile = true
+
+[[files]]
 file = "mods/enhanced-block-entities.pw.toml"
 hash = "b2849744066a97a78cad2fd5191c9635a113a9b32272af772bd66bf7ba886f64"
 metafile = true
@@ -451,7 +466,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "8d9c73e733f008d2795ad4158bf0beed565342854cd05f7a0595b2c6060bcbb1"
+hash = "4eec3de8a58a6e64ea96e31781b52f70b4b33ec02a34a45f171e3a1e6697ba86"
 metafile = true
 
 [[files]]
@@ -461,7 +476,7 @@ metafile = true
 
 [[files]]
 file = "mods/exordium.pw.toml"
-hash = "37db247bb5cd887915d8175275f1db6515de74b79de1132e17e1c86021ac3ede"
+hash = "4b3aa2a31aa0ab8c748561418200357b717f1ea9626672aea0653e862964a43f"
 metafile = true
 
 [[files]]
@@ -471,7 +486,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "5b3926937e14a4d97c482114c5580376ff13a5357c334ccab0d4fa7365b6e4e8"
+hash = "3a93a5b987d89b3ce4208d1e31b3a5636fc6363ff33896f5a7ad8961df94a236"
 metafile = true
 
 [[files]]
@@ -506,7 +521,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-seasons.pw.toml"
-hash = "535254ba3bdadfa8c54fccc7e7b531d61ff53909ae02455ef60d24ebdc707a7a"
+hash = "a279b276bfeff8bf9b475d90cad4a7c1359e295cca6c5bf5b79e4e6746e3d704"
 metafile = true
 
 [[files]]
@@ -636,7 +651,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-structures.pw.toml"
-hash = "c11c2244bf4666ce9ffa216d69bdaed3f915dce4e1acd2b0a0f342e4b942dced"
+hash = "87184da0fbda69dd2d209f9597beca5241893eb32e3e3d07356d1be3afa496b8"
 metafile = true
 
 [[files]]
@@ -732,6 +747,11 @@ metafile = true
 [[files]]
 file = "mods/lots-more-food-fabric.pw.toml"
 hash = "92a0145bf8f8660f17f3dfaf8a278160750a3c34db9d071f12c6233d7832ec87"
+metafile = true
+
+[[files]]
+file = "mods/lots-more-food.pw.toml"
+hash = "5a175aa7bfbc55aa12d68d663cfb32f21d5d5eb6353540ee78ed680febda89f1"
 metafile = true
 
 [[files]]
@@ -851,7 +871,7 @@ metafile = true
 
 [[files]]
 file = "mods/more-honey.pw.toml"
-hash = "8b8d269c1b20b41d1ccc64e03ea3ac2d4d365ec375378d367f57fffccd113695"
+hash = "ea0cd3111b8f7f7ca1330caa233a8cbca88d6bf7353117a9e2d5d275b3b2c893"
 metafile = true
 
 [[files]]
@@ -1001,7 +1021,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "ff3a4f2a7a2792968f241e204b095c88e5341af05610c47db42b92d9591b99f9"
+hash = "15bbdb7f98ae7148b79b69408488dd03016ac89fe647b5396417a8ba4f968df0"
 metafile = true
 
 [[files]]
@@ -1012,6 +1032,11 @@ metafile = true
 [[files]]
 file = "mods/obscure-api-fabric.pw.toml"
 hash = "f861dc9868667451a02f1ce396444723a477d58fd44a7e78b97f088a75c8963b"
+metafile = true
+
+[[files]]
+file = "mods/obscure-api.pw.toml"
+hash = "ce5f0e6fe0dea7313664ae106944e6ca0f6d790b432c61c864f6cb034031e735"
 metafile = true
 
 [[files]]
@@ -1146,7 +1171,7 @@ metafile = true
 
 [[files]]
 file = "mods/snow-under-trees-remastered.pw.toml"
-hash = "aef4082dfe1570844b0c33d8df4096a4c519c41b8d943f34c33c0b527bfc7ad6"
+hash = "3e296e373e17d6c4d9e8a914d07b841fcfa4faaefcb1ac00aafd4ac9d71e72aa"
 metafile = true
 
 [[files]]
@@ -1186,7 +1211,7 @@ metafile = true
 
 [[files]]
 file = "mods/spoiledz.pw.toml"
-hash = "6b53bd241d90980e7958d0ab4248e7c1fefb481b43bc2cd43383b6bef532a06f"
+hash = "f5126acbde70aa471693a39d2e64e1c691177499d0b38f90aabe6de6e981df57"
 metafile = true
 
 [[files]]

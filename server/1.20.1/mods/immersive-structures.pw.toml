@@ -3,12 +3,11 @@ filename = "imst-2.1.0.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/CVBAErky/versions/C1fCIQSh/imst-2.1.0.jar"
 hash-format = "sha1"
 hash = "1a239310e4020679338322ba9c7108305aa2a684"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 4579791
-project-id = 637201
-release-channel = "beta"
+[update.modrinth]
+mod-id = "CVBAErky"
+version = "C1fCIQSh"

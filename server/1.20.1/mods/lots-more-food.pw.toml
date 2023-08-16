@@ -1,0 +1,13 @@
+name = "Lot's More Food"
+filename = "morefood-1.20.1-v0.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/U2QZYFHC/versions/PSZr2JZ2/morefood-1.20.1-v0.0.2.jar"
+hash-format = "sha1"
+hash = "55a7f3e2bab59e1495760233c1d3edf1d6ab0bcb"
+
+[update]
+[update.modrinth]
+mod-id = "U2QZYFHC"
+version = "PSZr2JZ2"

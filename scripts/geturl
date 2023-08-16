@@ -1,0 +1,9 @@
+#!/home/joyal/mambaforge/bin/python
+import re, sys, webbrowser
+links = []
+with open(sys.argv[1], "r") as f:
+    pat = re.compile(r"https?:\/\/(www\.)?[-a-zA-Z0-9@:%._\+~#=]{1,256}\.[a-zA-Z0-9()]{1,6}\b([-a-zA-Z0-9()@:%_\+.~#?&//=]*)", re.IGNORECASE)
+
+    links = list(map(lambda x: x.group(0), pat.finditer(f.read())))[::2]
+for l in links:
+    webbrowser.open(re.sub(r"/files/", "/download/", l))

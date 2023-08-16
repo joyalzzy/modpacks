@@ -360,11 +360,6 @@ hash = "f56f19c7faab901fb0d76f65cf0c61bdaba465470e45bf3c403b96607a227e16"
 metafile = true
 
 [[files]]
-file = "mods/doggomodoverhauled.pw.toml"
-hash = "75c0c32197defd9acaeb58772b9205b8129e76d0f4425fb3688bb117588cbb80"
-metafile = true
-
-[[files]]
 file = "mods/dracomelette.pw.toml"
 hash = "95ce588e58231a5539813e60016f239de86d231c5608c48581951d53259b6cd2"
 metafile = true
@@ -645,11 +640,6 @@ hash = "b29daa6f5b3113a892ed1375e91d5cf0a6e2778e25b50c24ee36411d0bdbb295"
 metafile = true
 
 [[files]]
-file = "mods/immersive-portals-mod.pw.toml"
-hash = "c4130bf6c24fdc1174f5173fd0c9de5832ab81b61f5cbe88f25e32f96b8dd65f"
-metafile = true
-
-[[files]]
 file = "mods/immersive-structures.pw.toml"
 hash = "87184da0fbda69dd2d209f9597beca5241893eb32e3e3d07356d1be3afa496b8"
 metafile = true
@@ -900,11 +890,6 @@ hash = "85823e6c3eccc199df1cfd11c4855ff09f5607d0c1c50bf2e7fb531c99a35171"
 metafile = true
 
 [[files]]
-file = "mods/mr_ctov_bygcompat.pw.toml"
-hash = "a32cb1df71373d70c472d8ff0d3ae22f1c8f1ba5461ae0a2375b080bff48873a"
-metafile = true
-
-[[files]]
 file = "mods/mr_ctov_chefsdelightcompat.pw.toml"
 hash = "3e41df25fbf26489935cba33f8522f0358765425da4159e895218f12b6976d2b"
 metafile = true
@@ -922,36 +907,6 @@ metafile = true
 [[files]]
 file = "mods/mr_ctov_friendsandfoescompat.pw.toml"
 hash = "afcd4470f08c342d9c09af255d113736906d2d2c739f5277951eb7ebde9446b9"
-metafile = true
-
-[[files]]
-file = "mods/mr_ctov_gazebocompat.pw.toml"
-hash = "92e142998cbf3be1241649f6cfe659f9afc0368774daa976561946737f4a0996"
-metafile = true
-
-[[files]]
-file = "mods/mr_ctov_jellyfishingcompat.pw.toml"
-hash = "0fca24fb793f3770fdc1befb5b51f1f263aa099e288fe407815d79672e089838"
-metafile = true
-
-[[files]]
-file = "mods/mr_ctov_morevillagerscompat.pw.toml"
-hash = "398642cceee9078e509618201f1fd262dbd95ef4e4873db110b9c1096abb0293"
-metafile = true
-
-[[files]]
-file = "mods/mr_ctov_paladinsnpriestscompat.pw.toml"
-hash = "e393988e238063f995cac21f61042022a56f0f3a762467a559e7772ef815f523"
-metafile = true
-
-[[files]]
-file = "mods/mr_ctov_villagerspluscompat.pw.toml"
-hash = "f9ebead15b21efa269652b350d890c07ba0a9dbe8f4d133b3fb6787fba4b29f2"
-metafile = true
-
-[[files]]
-file = "mods/mr_ctov_wizardscompat.pw.toml"
-hash = "c50ae3d9a0befd3e8eb30105f08597bbc1ee4b507ba85e41d109f201ea685e9d"
 metafile = true
 
 [[files]]
@@ -995,11 +950,6 @@ hash = "81f464311859495bc2714fe6559eaa056ec622149384455f7404b3062a99ccb1"
 metafile = true
 
 [[files]]
-file = "mods/netherite-beacons.pw.toml"
-hash = "e17a196266ca164f353d4094d6c37a9fd2d8da1fe7c9420750b63e8b1e167f3a"
-metafile = true
-
-[[files]]
 file = "mods/niftycarts.pw.toml"
 hash = "8edad059b0506b2fbd8542519521049daeacbe2f4a1015ee1bbc52dbaa110264"
 metafile = true
@@ -1022,11 +972,6 @@ metafile = true
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "15bbdb7f98ae7148b79b69408488dd03016ac89fe647b5396417a8ba4f968df0"
-metafile = true
-
-[[files]]
-file = "mods/not-enough-crashes.pw.toml"
-hash = "ad98a5416b7ec26117f24dbf6f462f0b228f33d8b7de7fbeb2589f4f437edd3f"
 metafile = true
 
 [[files]]
@@ -1377,9 +1322,4 @@ metafile = true
 [[files]]
 file = "mods/yosbr.pw.toml"
 hash = "2808f62526894dadec7b8869dd105ef55b126f63a67535f5eaad5a591eb89a94"
-metafile = true
-
-[[files]]
-file = "mods/zoomify.pw.toml"
-hash = "311137f0986e86f2beb4ca24a5ec572212384a730d9df851e717e8d56bfcdc71"
 metafile = true

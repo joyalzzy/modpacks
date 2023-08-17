@@ -1055,11 +1055,6 @@ hash = "26a41617e2ef074241d8705f2919475e94a85626bbf3645eafe9e3a57c5e40b4"
 metafile = true
 
 [[files]]
-file = "mods/roughly-enough-items.pw.toml"
-hash = "88d7190e0459e285fb8baffb37778fc24a5ecf17c561bdc118a9587cf4d85e6e"
-metafile = true
-
-[[files]]
 file = "mods/rrls.pw.toml"
 hash = "69599ec83d29440b7a0daa2f7fe57ee7c8fa21a4fd502c8ed5b77290e9350eab"
 metafile = true

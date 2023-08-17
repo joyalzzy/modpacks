@@ -3,12 +3,11 @@ filename = "soulslike-weaponry-0.9.9.6-1.20-fabric.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/oX6SohLj/versions/NHZIP93n/soulslike-weaponry-0.9.9.6-1.20-fabric.jar"
 hash-format = "sha1"
 hash = "99077c7415f5f5ee5d3f9d6499be0399cbf58819"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 4619687
-project-id = 632066
-release-channel = "beta"
+[update.modrinth]
+mod-id = "oX6SohLj"
+version = "NHZIP93n"

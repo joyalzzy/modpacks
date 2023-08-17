@@ -1,0 +1,13 @@
+name = "Piglin Wither"
+filename = "Piglin_Wither.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/CMZ4fmem/versions/HyHXpPfh/Piglin_Wither.jar"
+hash-format = "sha1"
+hash = "945ec2a08d6e8c765e64b05f6ab4936027cb5a42"
+
+[update]
+[update.modrinth]
+mod-id = "CMZ4fmem"
+version = "HyHXpPfh"

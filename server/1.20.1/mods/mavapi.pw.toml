@@ -3,12 +3,11 @@ filename = "mavapi-1.1.2-mc1.20.1.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/t4Ybtys2/versions/zgIhFEWk/mavapi-1.1.2-mc1.20.1.jar"
 hash-format = "sha1"
 hash = "cbb77ba5eba4413060f5c861d648051639037b8a"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 4699688
-project-id = 709964
-release-channel = "beta"
+[update.modrinth]
+mod-id = "t4Ybtys2"
+version = "zgIhFEWk"

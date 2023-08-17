@@ -1,0 +1,13 @@
+name = "VoidZ"
+filename = "voidz-1.0.9.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/OMiCHIwt/versions/Sspe3aOV/voidz-1.0.9.jar"
+hash-format = "sha1"
+hash = "cd9f76d68f80473015b6a73484c715171621895e"
+
+[update]
+[update.modrinth]
+mod-id = "OMiCHIwt"
+version = "Sspe3aOV"

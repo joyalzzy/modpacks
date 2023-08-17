@@ -1,14 +1,14 @@
 name = "Exline's Emerald Equipment"
-filename = "emeraldequipment-fabric-mc1.20.1-v1.0.8.jar"
+filename = "emeraldequipment-fabric-1.20.1-v1.1.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "82f8338020a360b1567d427b416a8431fea5bfb6"
+hash = "165b490ee74787e4f8f6f75b5264cb79f6da3e5b"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4662614
+file-id = 4684653
 project-id = 508549
 release-channel = "beta"

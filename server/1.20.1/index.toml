@@ -1145,6 +1145,11 @@ hash = "b74db3ff833a075b763af0b76f96681e7fe85399e888de3d947596a88c8355a7"
 metafile = true
 
 [[files]]
+file = "mods/spark.pw.toml"
+hash = "7ca0983d3b7852c06f84c66b9f12da8115ff9b8ba63293cd20452377a0de726e"
+metafile = true
+
+[[files]]
 file = "mods/spawn_animations_mr.pw.toml"
 hash = "8427e51988b2edbf0a51d7572249dfcc03a9cc0d4db2bb5cdb71363962f44165"
 metafile = true

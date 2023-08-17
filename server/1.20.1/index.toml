@@ -90,11 +90,6 @@ hash = "d0824166a8c4c908887f303857a93d816a8ee9204287ba02b037373536f2c0d1"
 metafile = true
 
 [[files]]
-file = "mods/archeology-plus.pw.toml"
-hash = "9a85ecd81e036e97f51c3a3c14f0c7ab2b192875628127df92677c0808a6815b"
-metafile = true
-
-[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "8b5a3b49cb4e756ade269946311a2c7dd38f1ee20d67699205f7319aedbac14c"
 metafile = true

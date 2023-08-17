@@ -90,6 +90,11 @@ hash = "d0824166a8c4c908887f303857a93d816a8ee9204287ba02b037373536f2c0d1"
 metafile = true
 
 [[files]]
+file = "mods/archeology-plus.pw.toml"
+hash = "9a85ecd81e036e97f51c3a3c14f0c7ab2b192875628127df92677c0808a6815b"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "8b5a3b49cb4e756ade269946311a2c7dd38f1ee20d67699205f7319aedbac14c"
 metafile = true
@@ -257,6 +262,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "b6348f94ec939f563285dc96683e61da8fc17ab2f2897be2751fa24789513691"
+metafile = true
+
+[[files]]
+file = "mods/clutter.pw.toml"
+hash = "573858ec892b0882ae1984cca2d11021607afee0f1880251c621a4392022397e"
 metafile = true
 
 [[files]]
@@ -606,7 +616,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "d8e49bec6057a9729baa401c7f8dddd53b035be80c8fc2cbec500342d06bbd00"
+hash = "9bc3716ec5b59e42a827b08b34ec1f1fe3b4791a920c9408e58afdefeda9fc20"
 metafile = true
 
 [[files]]

@@ -924,11 +924,6 @@ hash = "65d98c9ffae82da04fbfcecfd30f27abf6d36f0b719facbb54baaf3176f0acb6"
 metafile = true
 
 [[files]]
-file = "mods/mr_scorched.pw.toml"
-hash = "81f464311859495bc2714fe6559eaa056ec622149384455f7404b3062a99ccb1"
-metafile = true
-
-[[files]]
 file = "mods/niftycarts.pw.toml"
 hash = "8edad059b0506b2fbd8542519521049daeacbe2f4a1015ee1bbc52dbaa110264"
 metafile = true

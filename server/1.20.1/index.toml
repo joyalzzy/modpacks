@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/c2me.toml"
-hash = "bd73b32c82f1234aff3b9c3a13192a1f3aadd6d6e35014d2f8b7658604bd64b5"
+hash = "6b17690b71721c1e717cb81e5f4aecca3e999e26aa49b2e17fafa4059228a1ec"
 
 [[files]]
 file = "icon.png"
@@ -89,6 +89,11 @@ hash = "d0824166a8c4c908887f303857a93d816a8ee9204287ba02b037373536f2c0d1"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "a243675bc757485925b293932ee289b9fbcfb3b75bd3ba74eca7603f191cedad"
+metafile = true
+
+[[files]]
 file = "mods/backslot.pw.toml"
 hash = "c9aadcd72eb1de97771c086b8d2468f44c8079368c66fdc21d49e00b31e8dcad"
 metafile = true
@@ -111,6 +116,11 @@ metafile = true
 [[files]]
 file = "mods/bclib.pw.toml"
 hash = "762e1a8df2ba3268d7ace962dc1d80fa590389839046da0d135f405d6a17dc01"
+metafile = true
+
+[[files]]
+file = "mods/beachparty.pw.toml"
+hash = "541fbfeb41e5f276dcbda4dabb0b907bf435808ff5c57c1ff3ce19c3f238d5f4"
 metafile = true
 
 [[files]]
@@ -344,6 +354,11 @@ hash = "fb11fb38cc73d9d14736c7da7a73c5e3d4fc1f7f66ed10cc83e5a46021bba381"
 metafile = true
 
 [[files]]
+file = "mods/do-api.pw.toml"
+hash = "6eda9ca0678ef8cfebeb586fa7bb525062bac210b2d24c4a50a4b89407300684"
+metafile = true
+
+[[files]]
 file = "mods/dracomelette.pw.toml"
 hash = "95ce588e58231a5539813e60016f239de86d231c5608c48581951d53259b6cd2"
 metafile = true
@@ -421,6 +436,11 @@ metafile = true
 [[files]]
 file = "mods/enchantments-plus.pw.toml"
 hash = "60e1f4b4b7163c74d7b12deb2f2c661b06f8e596dcaca96c30d4f2c1fca1cf2b"
+metafile = true
+
+[[files]]
+file = "mods/enderite-mod.pw.toml"
+hash = "0874cd2e89e0bf3cb515aad870d37c6998a96490b899bc631e10c67b3aa05190"
 metafile = true
 
 [[files]]
@@ -656,6 +676,16 @@ metafile = true
 [[files]]
 file = "mods/let-sleeping-dogs-lie-for-fabric.pw.toml"
 hash = "6ad6bd48979817447626153545616f1c5b655563a56f7b687f7fed4b918148ee"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-bakery.pw.toml"
+hash = "62f842e50b3078dcf2d1d4ce2b2aa86b54925c32d2f745350b8a9c5ded3fa19a"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-candlelight.pw.toml"
+hash = "dbbe32f0014796ff0b59e41b7839d1929298da67fc2511e3e610a4c3a7497b7b"
 metafile = true
 
 [[files]]
@@ -944,6 +974,11 @@ hash = "83b476730dba8c3cdc9ee6ed4e0623f97bc116848aebfe3149eece321083b251"
 metafile = true
 
 [[files]]
+file = "mods/pandas-falling-trees.pw.toml"
+hash = "6766e5605b850ddfcd4c87428b8e0a3615367ceafebc14d4986132b488cdd0ef"
+metafile = true
+
+[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "cd1f0cf0ae2b6e1c14e3caa4685ae721cb590835110e076400cd986be1db9903"
 metafile = true
@@ -1169,6 +1204,11 @@ hash = "ce1e15872cf1c27487462d67df73f06f7de2a7a17a07baac1ed0121c29c5727e"
 metafile = true
 
 [[files]]
+file = "mods/twigs.pw.toml"
+hash = "febd807caf2a93448b1a541467a01fbc48f3a4b0b8fb78edbafaeda4e8d95f9e"
+metafile = true
+
+[[files]]
 file = "mods/ubesdelight.pw.toml"
 hash = "d3cc345c089b6bee1578e63ef3693e4e0a48f05ed45e482cf849f53996c30b8e"
 metafile = true
@@ -1189,6 +1229,11 @@ hash = "d516609512f43f65777600e5ef45dacedd6b1c8bc5311b757b6c342999f1d8d5"
 metafile = true
 
 [[files]]
+file = "mods/vinery.pw.toml"
+hash = "1ecfcf67db4323ac1468b0cad057a5ed8dff55c7364886f54f7569894e458821"
+metafile = true
+
+[[files]]
 file = "mods/voidtotem-fabric.pw.toml"
 hash = "52faf07a34db0cb2f91bfc7bf331e3f360cfe93ef134af369efcddaf57b2a20d"
 metafile = true
@@ -1201,6 +1246,11 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "57fcf0f44a493557562b450f6c906f740fe8b56f0b3e05142a004b6ee3fb4df8"
+metafile = true
+
+[[files]]
+file = "mods/welcome-to-meadow.pw.toml"
+hash = "d423470c32ddd47cdb2a76be16f510fcf8c1d43a9c637759d35579e8d5582b42"
 metafile = true
 
 [[files]]

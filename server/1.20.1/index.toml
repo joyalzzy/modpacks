@@ -1035,6 +1035,11 @@ hash = "6766e5605b850ddfcd4c87428b8e0a3615367ceafebc14d4986132b488cdd0ef"
 metafile = true
 
 [[files]]
+file = "mods/patchouli.pw.toml"
+hash = "cd1f0cf0ae2b6e1c14e3caa4685ae721cb590835110e076400cd986be1db9903"
+metafile = true
+
+[[files]]
 file = "mods/piglin-wither.pw.toml"
 hash = "b7291680e1189c9fed208cefcd037f3c9fce4a02a517db0584f2ddc34305c9c9"
 metafile = true

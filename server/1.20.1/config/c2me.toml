@@ -80,7 +80,7 @@ globalExecutorParallelism = "default"
 
 [ioSystem]
         # (Default: true) Whether to use async chunk loading & unloading
-        async = "default"
+        async = "true"
         # (Default: -1) Defines which chunk compression should be used
         # -1 for Vanilla default
         # 1  for GZip (RFC1952) (Vanilla compatible)
@@ -91,7 +91,7 @@ globalExecutorParallelism = "default"
         # as this option only affects newly stored chunks
         # Invalid values will fall back to vanilla default
         #
-        chunkStreamVersion = "default"
+        chunkStreamVersion = "3"
         # (Default: false) EXPERIMENTAL FEATURE
         # This replaces the way your chunks are saved.
         # Please keep regular backups of your world if you are using this feature,
@@ -100,7 +100,7 @@ globalExecutorParallelism = "default"
         # Whether to use the fast reduced allocation chunk serializer
         # (may cause incompatibility with other mods)
         #
-        gcFreeChunkSerializer = true
+        gcFreeChunkSerializer = false
         # (Default: false) Whether to use the optimized implementation of IO system
         replaceImpl = "default"
         # (Default: 8192) Soft limit for io worker nbt cache

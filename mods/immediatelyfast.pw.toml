@@ -1,0 +1,14 @@
+name = "ImmediatelyFast"
+filename = "ImmediatelyFast-1.1.27+1.20.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/hgQwRPhD/ImmediatelyFast-1.1.27%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "3c1d8c5bdfdcfd6b853ebcf32e5e9423f4667b0d5e2bbbcba3414ddc0c315206f335fcc0545100d670bc62023992144dac5115c5f9a8e73dd8d0b0ee27eaf58b"
+
+[update]
+[update.modrinth]
+mod-id = "5ZwdcRci"
+version = "hgQwRPhD"

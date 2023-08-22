@@ -1,0 +1,13 @@
+name = "Head Name Fix"
+filename = "head-name-fix-1.20-1.2.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rbU0dAND/versions/9rl9BuBX/head-name-fix-1.20-1.2.2.jar"
+hash-format = "sha1"
+hash = "e546ce1da21976f5c89881e0605394b25c1ded96"
+
+[update]
+[update.modrinth]
+mod-id = "rbU0dAND"
+version = "9rl9BuBX"

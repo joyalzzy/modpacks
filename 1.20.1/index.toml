@@ -85,6 +85,11 @@ hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
 metafile = true
 
 [[files]]
+file = "mods/headfix.pw.toml"
+hash = "5ba85e15fd70b8f68009ec186702495fe611a7a8ef389a04e9eda57a55eca94e"
+metafile = true
+
+[[files]]
 file = "mods/image2map.pw.toml"
 hash = "5ba86432dafed77442fbc2ea11db62a15b1919e47656fda26c393b4ee62f6eca"
 metafile = true
@@ -135,6 +140,11 @@ hash = "4da733514ca3601f7a773759a6fc2ced2cc10d3d1f07b602d7b572da53a95849"
 metafile = true
 
 [[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "7ca62a9da5c2ec9f0a8bed5394021c959e90077db16b313be44f4c8736f7fbf5"
+metafile = true
+
+[[files]]
 file = "mods/no-rocket-boosting.pw.toml"
 hash = "cb4b300e01390838a8cfc70da9bea29e8715d599d7e18704a9aadf4c4b5a85a6"
 metafile = true
@@ -162,6 +172,11 @@ metafile = true
 [[files]]
 file = "mods/snow-under-trees-remastered.pw.toml"
 hash = "3e296e373e17d6c4d9e8a914d07b841fcfa4faaefcb1ac00aafd4ac9d71e72aa"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "7ca0983d3b7852c06f84c66b9f12da8115ff9b8ba63293cd20452377a0de726e"
 metafile = true
 
 [[files]]

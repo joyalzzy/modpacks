@@ -23,6 +23,6 @@ def getdel(f: str):
         
 os.chdir(getroot())
 logs = subprocess.run(["git", "diff", "--name-status",  "HEAD^"], capture_output=True).stdout.decode('ascii').strip()
-logs = filter(lambda x: '1.20.1/mods' in x, logs.split('\n'))
+logs = filter(lambda x: '1.20.1/mods' in x and x.startswith('M'), logs.split('\n'))
 changes = map(lambda x: [f"added {getdat(x[2 : None])[0]}", f"removed {getdel(x[2: None])[0]}"][np.where([str(x).startswith('A'), str(x).startswith('D')])[0][0]],logs)
 print("\n".join(list(changes)))

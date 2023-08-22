@@ -1,0 +1,13 @@
+name = "Spawn Animations"
+filename = "spawn-animations-1.9.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zrzYrlm0/versions/id5iTpik/spawn-animations-1.9.1.jar"
+hash-format = "sha1"
+hash = "59a0e4aaa20e76f255f2d982220d638602eb9478"
+
+[update]
+[update.modrinth]
+mod-id = "zrzYrlm0"
+version = "id5iTpik"

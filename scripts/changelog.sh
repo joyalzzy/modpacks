@@ -1,1 +1,1 @@
-git diff HEAD HEAD^1
+git diff --name-status HEAD^ 

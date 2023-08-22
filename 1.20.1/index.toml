@@ -20,6 +20,11 @@ hash = "7d3db5f37a91ed7af9ced5b72d9d14774498c5b4f398b2c06e1c05bd3f33db07"
 metafile = true
 
 [[files]]
+file = "mods/betterleads.pw.toml"
+hash = "3ecbc3e344d8da1ab6cda12e4bcd446ee4ee62525b729a240c381ee998722d1c"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "d4e882278d0a8d863a069df56f6e473e81e79c48f8cc6e700a56f297847178ca"
 metafile = true
@@ -80,8 +85,18 @@ hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
 metafile = true
 
 [[files]]
+file = "mods/headfix.pw.toml"
+hash = "5ba85e15fd70b8f68009ec186702495fe611a7a8ef389a04e9eda57a55eca94e"
+metafile = true
+
+[[files]]
 file = "mods/image2map.pw.toml"
 hash = "5ba86432dafed77442fbc2ea11db62a15b1919e47656fda26c393b4ee62f6eca"
+metafile = true
+
+[[files]]
+file = "mods/immersive-structures.pw.toml"
+hash = "87184da0fbda69dd2d209f9597beca5241893eb32e3e3d07356d1be3afa496b8"
 metafile = true
 
 [[files]]
@@ -125,6 +140,11 @@ hash = "4da733514ca3601f7a773759a6fc2ced2cc10d3d1f07b602d7b572da53a95849"
 metafile = true
 
 [[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "7ca62a9da5c2ec9f0a8bed5394021c959e90077db16b313be44f4c8736f7fbf5"
+metafile = true
+
+[[files]]
 file = "mods/no-rocket-boosting.pw.toml"
 hash = "cb4b300e01390838a8cfc70da9bea29e8715d599d7e18704a9aadf4c4b5a85a6"
 metafile = true
@@ -155,6 +175,11 @@ hash = "3e296e373e17d6c4d9e8a914d07b841fcfa4faaefcb1ac00aafd4ac9d71e72aa"
 metafile = true
 
 [[files]]
+file = "mods/spawn-animations.pw.toml"
+hash = "e0abd290de019a8918b8f7f68bdc7a63ed43921082a8f70ef6cba99bf3582784"
+metafile = true
+
+[[files]]
 file = "mods/starlight.pw.toml"
 hash = "218f67d6bcaae849582618cd3e5eb1d4cac0fd6045115f64340620300e160c11"
 metafile = true
@@ -162,6 +187,16 @@ metafile = true
 [[files]]
 file = "mods/tabtps.pw.toml"
 hash = "715238672c12a843ccaee2b423314e78f28f38e526822215c1b398877c51fbc5"
+metafile = true
+
+[[files]]
+file = "mods/ultris.pw.toml"
+hash = "2ce4328079fe4ccac39d71bf6a5f9933d3b9fa742f993913c04d5bc86f84fe7b"
+metafile = true
+
+[[files]]
+file = "mods/vanilla-refresh.pw.toml"
+hash = "3dcaf68f7bcbdd4fe25af1ca2400a10952aae1514e87ff304fef91cfad271566"
 metafile = true
 
 [[files]]

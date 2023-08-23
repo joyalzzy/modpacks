@@ -45,6 +45,16 @@ hash = "47e796fa0168407d6bf12e3aac6cf29881960df43ed21f844ab34ac891ee0730"
 metafile = true
 
 [[files]]
+file = "mods/cristel-lib.pw.toml"
+hash = "9294808eaeacbec10f8e8d67e53a21ac03ae3267220a223982275a2f13bb486e"
+metafile = true
+
+[[files]]
+file = "mods/ct-overhaul-village.pw.toml"
+hash = "8b40bfadfa94f40e3310148cb4828e304cbdd3842304c300366b25a0d0769818"
+metafile = true
+
+[[files]]
 file = "mods/death-backup.pw.toml"
 hash = "abe0735af4a121e00bbf54b00f350f8cf09fd1ad69687bbd34a3f346a511baa5"
 metafile = true
@@ -52,6 +62,16 @@ metafile = true
 [[files]]
 file = "mods/debugify.pw.toml"
 hash = "4ba45966a267b774f5d83442c3c43d740f55e11a910e117e50c046b4f77b5c66"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns.pw.toml"
+hash = "26567686c9226eb0c6fe19fa01047275563b72c5bf26ab1f55f8c3fa2e624df2"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "4f0afa4e70e830f08266c181c2a0deb207780712db6e7f8961ffb62061afada0"
 metafile = true
 
 [[files]]
@@ -85,6 +105,11 @@ hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
 metafile = true
 
 [[files]]
+file = "mods/globalpacks.pw.toml"
+hash = "dd95cf09d9a642a0914a01790dee89b72963e088a4ceb88e206efea6998b03a4"
+metafile = true
+
+[[files]]
 file = "mods/headfix.pw.toml"
 hash = "5ba85e15fd70b8f68009ec186702495fe611a7a8ef389a04e9eda57a55eca94e"
 metafile = true
@@ -97,6 +122,11 @@ metafile = true
 [[files]]
 file = "mods/immersive-structures.pw.toml"
 hash = "87184da0fbda69dd2d209f9597beca5241893eb32e3e3d07356d1be3afa496b8"
+metafile = true
+
+[[files]]
+file = "mods/incendium.pw.toml"
+hash = "9b5d719c6cbc3da3995f00a0270b2ac200e5a2e6b3b0585c65727524b0f2d499"
 metafile = true
 
 [[files]]
@@ -185,13 +215,48 @@ hash = "e0abd290de019a8918b8f7f68bdc7a63ed43921082a8f70ef6cba99bf3582784"
 metafile = true
 
 [[files]]
+file = "mods/spellbound-weapons.pw.toml"
+hash = "f5ab1bfd9c063521ac2449d65bffff1bb0352b484eab5341d8883f136e1305fc"
+metafile = true
+
+[[files]]
 file = "mods/starlight.pw.toml"
 hash = "218f67d6bcaae849582618cd3e5eb1d4cac0fd6045115f64340620300e160c11"
 metafile = true
 
 [[files]]
+file = "mods/stellarity.pw.toml"
+hash = "fe8022c85a493055438172cdca2945f8bbc36d9d39a247df00e0670c7aaab585"
+metafile = true
+
+[[files]]
 file = "mods/tabtps.pw.toml"
 hash = "715238672c12a843ccaee2b423314e78f28f38e526822215c1b398877c51fbc5"
+metafile = true
+
+[[files]]
+file = "mods/tectonic.pw.toml"
+hash = "c9072b33298e95459c644344c8f8e7317a2f503a469e24bf51e63dca9c560db1"
+metafile = true
+
+[[files]]
+file = "mods/terra.pw.toml"
+hash = "cff35e3e7a0101a7460d91fff8c8611ad68c92283b468e7d75d166e01e6ff588"
+metafile = true
+
+[[files]]
+file = "mods/terrablender.pw.toml"
+hash = "a1fd826038c193e91c0ac45648b93721760c3e4f0fbddde169952e93bc348df7"
+metafile = true
+
+[[files]]
+file = "mods/towers-of-the-wild-additions.pw.toml"
+hash = "3b6752885578c32acfda11cc640edf261eea1373aeda18e471f225f9f42471e9"
+metafile = true
+
+[[files]]
+file = "mods/towns-and-towers.pw.toml"
+hash = "b93993a54c2ce2465446f58dc4b91caec4e5d9a1ade03c56f3eedddbb89879b2"
 metafile = true
 
 [[files]]
@@ -202,6 +267,16 @@ metafile = true
 [[files]]
 file = "mods/vanilla-refresh.pw.toml"
 hash = "3dcaf68f7bcbdd4fe25af1ca2400a10952aae1514e87ff304fef91cfad271566"
+metafile = true
+
+[[files]]
+file = "mods/when-dungeons-arise.pw.toml"
+hash = "80029fa0d159a61982f8f352fd634aa2ea3026605f4066d47f7d512b1cf17792"
+metafile = true
+
+[[files]]
+file = "mods/wwoo.pw.toml"
+hash = "566d54d31ab010faf4d878faf2ef843b7de2e397356dc1e348ca44a0fbef7e41"
 metafile = true
 
 [[files]]

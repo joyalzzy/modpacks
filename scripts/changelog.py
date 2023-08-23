@@ -6,9 +6,13 @@ def getdat(f: str):
         with open(getroot() + "/" + f, "r" ) as fe:
             tom = tomllib.loads(fe.read())
             # print(tom["update"]["modrinth"]["mod-id"])
-            return [tom["name"], tom["update"]["modrinth"]["mod-id"] if tom["update"]["modrinth"]["mod-id"] else tom["update"]["curseforge"]["project-id"]]
+            try: 
+                return [tom["name"], tom["update"]["modrinth"]["mod-id"]]
+            except:
+                return [tom["name"], tom["update"]["curseforge"]["project-id"]]
+
     except Exception as e:
-        print(e)
+#        print(e)
         return ["",""]
 
 def getroot():
@@ -17,7 +21,10 @@ def getroot():
 def getdel(f: str):
     try: 
         tom = tomllib.loads(subprocess.run(["git", "show", f"HEAD~{sys.argv[1]}:" + f], capture_output=True).stdout.decode('ascii').strip())
-        return [tom["name"], tom["update"]["modrinth"]["mod-id"] if tom["update"]["modrinth"]["mod-id"] else tom["update"]["curseforge"]["project-id"]] 
+        try: 
+            return [tom["name"], tom["update"]["modrinth"]["mod-id"]]
+        except:
+            return [tom["name"], tom["update"]["curseforge"]["project-id"]] 
     except:
         return ["idk", "idk"]
         

@@ -15,7 +15,7 @@ replacementBlocks = ["stone", "deepslate", "andesite", "calcite", "diorite", "di
 
 [the_nether]
 enabled = true
-engineMode = 1
+engineMode = 3
 maxBlockHeight = 128
 updateRadius = 2
 lavaObscures = true

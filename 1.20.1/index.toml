@@ -1,8 +1,308 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/NoChatReports/NCR-Common.json"
+hash = "0eaad2630bd70ade719f7810e805810ada25379269ea194e43d3eea30c51dec0"
+
+[[files]]
+file = "config/NoChatReports/README.md"
+hash = "c52b76ccad2bd1063a22c7f6bb9e7c5db6b00fb53a6fd605585972ee0e5fc01f"
+
+[[files]]
+file = "config/TabTPS/display-configs/default.conf"
+hash = "efcad42c15087e3ac549a9b4cd2c1c6fe5f09fe9249701f8f62655e33cb7bdfc"
+
+[[files]]
+file = "config/TabTPS/main.conf"
+hash = "3086a50218a75625467ac3ff05a33687d6e07a0f1c929fc4e0d51acf6eefce5c"
+
+[[files]]
+file = "config/TabTPS/themes/default.conf"
+hash = "be849ebc154c84986260430f6c52ba9c61aad140756b589d07169c2e3e80447e"
+
+[[files]]
+file = "config/antixray.toml"
+hash = "c60dd6a46e310909e669ce8d91e05d447a503ea4cc02c47dc3d022297635d41e"
+
+[[files]]
+file = "config/axesareweapons.json5"
+hash = "9b741741c469d294c5ae34703035c431927cd33185ec1f1f46d27b00893c5b60"
+
+[[files]]
+file = "config/betterleads.toml"
+hash = "1717902c45ce3e81380c5e2ea0a507237acc3b6a29a37ae3e148d1076cf14891"
+
+[[files]]
 file = "config/c2me.toml"
-hash = "fee3dc4774bd4345a9c721927c4d614c298a49bd583a77f7b5d46d0816856f59"
+hash = "1421ee55a0617801484a204fabc38cfdb91f21602f87621ee71f2f3925d1e572"
+
+[[files]]
+file = "config/collective.json5"
+hash = "600046b205e20aa3a2ff5af8a66a202c00a97b1c27a6c0675211dbe11d4c0b5f"
+
+[[files]]
+file = "config/couplings.toml"
+hash = "440ddd31c9f97a15e1695450c18c98d199a0bf30d3c1a93c16b9f58745843923"
+
+[[files]]
+file = "config/deathbackup.json5"
+hash = "e96cb6bacbddf60b7912a750140818c7bf675a13c9bc8cc14b43cb059c38a0e8"
+
+[[files]]
+file = "config/debugify.json"
+hash = "ff8b7bdb8258a3834793105a279060d98798a8c7adf9d4532059782680d545db"
+
+[[files]]
+file = "config/fabric_loader_dependencies.json"
+hash = "53f04b3f9bb3ef51a236e5050a2cd1a07394bede202e98c5dbe08a9ca81b4a3e"
+
+[[files]]
+file = "config/fabrictailor.json"
+hash = "d720da4eb6ac10735cb748e33bde0f2ea46e340bb698e06098e6085f51bc473d"
+
+[[files]]
+file = "config/ferritecore.mixin.properties"
+hash = "3cc3011619f098fda6ad213a7c4d1468802ff827591a5917c2b7bf3150bfb2ea"
+
+[[files]]
+file = "config/forgeconfigapiport.toml"
+hash = "2ba5e0623a6b831434046f4f1618a2bee57cb3f08a9d740bb6b38b0943612c9e"
+
+[[files]]
+file = "config/image2map.json"
+hash = "8dfda98b5271ac519b696cab27f65f40b381eac7a65477a7f2105fb478b1a834"
+
+[[files]]
+file = "config/leavesbegone-server.toml"
+hash = "5461ea48b86cd51ac9a218ac6a7ecc32cf4c4fb0acc70c68de4329766027ca15"
+
+[[files]]
+file = "config/ledger.toml"
+hash = "21a3a9d12fbdd00febc4d1d0ac6e0faa625c381d1e3fcb14c039e81538fe521f"
+
+[[files]]
+file = "config/lithium.properties"
+hash = "76765e8e5ff8e927d80beb0739aababcf36e7babfd94262f2afece256cc5cd2e"
+
+[[files]]
+file = "config/luckperms/config.conf"
+hash = "3942c41addd3b5f62d31cc3c45963d18bcf6672926701386ad9ddbc744bb63b2"
+
+[[files]]
+file = "config/luckperms/editor-keystore.json"
+hash = "74c949bf999295b74b4461ef9786bd89540fc536c5facd6870731df3f68378ce"
+
+[[files]]
+file = "config/luckperms/luckperms.conf"
+hash = "7cae5900208605dd6643e1a8ddb647761a8dbbcb62da3febc2f45e50878c3234"
+
+[[files]]
+file = "config/luckperms/translations/repository/ar_SA.properties"
+hash = "bf8293312a11f0b2cd298a81fe17a51ca72c251b604d581a372c45c7360504eb"
+
+[[files]]
+file = "config/luckperms/translations/repository/bg_BG.properties"
+hash = "ad5a9e8eef0a29d3454cc517eabc1a64c5d4e1fbd22132ac24e1cd99dfba19c9"
+
+[[files]]
+file = "config/luckperms/translations/repository/cs_CZ.properties"
+hash = "c3706f0c9b8dcc15b839dbc28c30abbaa549d429508ce2788d0eb2ed189c6a89"
+
+[[files]]
+file = "config/luckperms/translations/repository/da_DK.properties"
+hash = "0504bf0a41bade0d71867ba046878020dac9f80325c2c9ca28e48d322341b929"
+
+[[files]]
+file = "config/luckperms/translations/repository/de_DE.properties"
+hash = "551eb038a0a5b2483c6a3f1f2d047c98d672a774f41ef4759a655de40d435279"
+
+[[files]]
+file = "config/luckperms/translations/repository/el_GR.properties"
+hash = "500a58cccf9935cf0014f9d0c6c738aee2fb7ada382942620c71a12fafe9ee84"
+
+[[files]]
+file = "config/luckperms/translations/repository/en_PT.properties"
+hash = "b4e30ccde47e435249520b1edcab5c771b5263662f1b61caf6fb8d8ef090d343"
+
+[[files]]
+file = "config/luckperms/translations/repository/es_ES.properties"
+hash = "0e88d189b5d075036d4c7d39baf2dc7debec4bc11bea7b524a43e2a84fdef8e0"
+
+[[files]]
+file = "config/luckperms/translations/repository/fa_IR.properties"
+hash = "74662051798c6f6667b6e133aceeff52ea2e636c26225f4efd4fa89f192015ea"
+
+[[files]]
+file = "config/luckperms/translations/repository/fi_FI.properties"
+hash = "99ed57b9572f64a652ac4fa354c2d5d7a6325082759e7556eb7352caa8338edf"
+
+[[files]]
+file = "config/luckperms/translations/repository/fil_PH.properties"
+hash = "87cdd1c30c580f0045684bc5bf26d2ec2aba01051b1c0fa67f36a4e676b58b65"
+
+[[files]]
+file = "config/luckperms/translations/repository/fr_FR.properties"
+hash = "10536523cdfb1ea41529b224b93e82ab8f9757ec03e874ed1608776086089a53"
+
+[[files]]
+file = "config/luckperms/translations/repository/he_IL.properties"
+hash = "0b3836e270dcae860f7851ca511c02ba231ad422c0d35b42499bdc657126c1f0"
+
+[[files]]
+file = "config/luckperms/translations/repository/hi_IN.properties"
+hash = "e2f23be431a0ba843bd02b1c1acd7ecc8c227170619a80d3faad08c7040f7292"
+
+[[files]]
+file = "config/luckperms/translations/repository/hu_HU.properties"
+hash = "6b26d964931d5be3890bbea50ed7d8ef73a6bed172bb64422bf6349e08d90320"
+
+[[files]]
+file = "config/luckperms/translations/repository/id_ID.properties"
+hash = "e940701b94b78fe37fd0c31639857cbfa724058e147a0006012b58c2a9fcb2d9"
+
+[[files]]
+file = "config/luckperms/translations/repository/it_IT.properties"
+hash = "ee57634d609c4fbd2b383389392720a9ca153b15b42299b3b833e57f45dc5294"
+
+[[files]]
+file = "config/luckperms/translations/repository/ja_JP.properties"
+hash = "b9e839bae812811dc3f44ff3d8086f0a86ad45e56223fd6e88e7723ffa7c1822"
+
+[[files]]
+file = "config/luckperms/translations/repository/ka_GE.properties"
+hash = "625bff62a0ab5e2e0c7656c9af539af69dea3827346d9d05a545d53471078c17"
+
+[[files]]
+file = "config/luckperms/translations/repository/ko_KR.properties"
+hash = "5d639b1b8326fa4e71a635896d48f1943604dd34b08ce65e0cb3af099d4e1ecd"
+
+[[files]]
+file = "config/luckperms/translations/repository/nl_NL.properties"
+hash = "7674ff756a3c3aae7c450dd88d3bf5e446757bc1dc6820edf77f5645927fe080"
+
+[[files]]
+file = "config/luckperms/translations/repository/no_NO.properties"
+hash = "902c97ce770205af9a0ef3cb04927b187a607a4cbd0bf460457065ca0e62f949"
+
+[[files]]
+file = "config/luckperms/translations/repository/pl_PL.properties"
+hash = "2a5b854e957a56b812a7db934f0c596c78c119cafea41f42b4d1916f9b678f7d"
+
+[[files]]
+file = "config/luckperms/translations/repository/pt_BR.properties"
+hash = "4ee4f3669e790dec7ecf62e2b6d0350cdd2fd41838925c7c7edf0746e588b755"
+
+[[files]]
+file = "config/luckperms/translations/repository/ro_RO.properties"
+hash = "b0954c2b060b164d55eb5a143277dfd00cfd47ca3d7e2fe1f1b29e17b1cd914e"
+
+[[files]]
+file = "config/luckperms/translations/repository/ru_RU.properties"
+hash = "c04becfa4bfd427c59c956b94e77498d149432d3d8ed50e33cdae3e434c81e7d"
+
+[[files]]
+file = "config/luckperms/translations/repository/sk_SK.properties"
+hash = "8796493dd2868a0c5b9cd31b0476292604f6a7b7cd2ebb77878511bdd1d522ed"
+
+[[files]]
+file = "config/luckperms/translations/repository/sr_CS.properties"
+hash = "912c0aff4bb5bf77bf907c6ccb072fae19948311d8cb8f4f5d2f97c94adb5533"
+
+[[files]]
+file = "config/luckperms/translations/repository/status.json"
+hash = "c525bc685e2722890bf080394c2752bb3274fd7b4f78e9afe6a1f9172d3e225e"
+
+[[files]]
+file = "config/luckperms/translations/repository/sv_SE.properties"
+hash = "3dc80a34a10f518dbedd3e1b17973a1af2cb33d11d7878c214da96a49170aac9"
+
+[[files]]
+file = "config/luckperms/translations/repository/tr_TR.properties"
+hash = "91901a3a7d184716c71de996c30a1bf50266e850d265a09b99dcc4f86d41ceff"
+
+[[files]]
+file = "config/luckperms/translations/repository/uk_UA.properties"
+hash = "1f9ecde9e332484f602bdba194fd46c8c400ee0997dc514f8e2b009bfca63a2b"
+
+[[files]]
+file = "config/luckperms/translations/repository/vi_VN.properties"
+hash = "79c28807f8b0c5ade7aa50aa8ace0d4bc536ea21b605f45d0fa20daeec10955b"
+
+[[files]]
+file = "config/luckperms/translations/repository/zh_CN.properties"
+hash = "749818ed7785e91888857d69c198f783d8d23a5d3853ed11d9e4faea41d3e538"
+
+[[files]]
+file = "config/luckperms/translations/repository/zh_TW.properties"
+hash = "cf074842ab4221e82ea42dfe6dacce1b0d9460776116ba96e7b3b892ec91d12d"
+
+[[files]]
+file = "config/rightclickharvest.json"
+hash = "56ef07ea78079bbd2e452724718d9816f1d69a4ddb4a111aaf6752cf6e9d5032"
+
+[[files]]
+file = "config/servercore.toml"
+hash = "f87b3b357e4cfa64b06b502adb51d19af5e57a6c7f3bb1c104778dfba0a60860"
+
+[[files]]
+file = "config/sleepwarp-server.json"
+hash = "e927b341a021a880e24cf667190f0921d38ad8ec001ebf501f52662e859013f4"
+
+[[files]]
+file = "config/smoothboot.json"
+hash = "1891f56abc485d8db22cdd00a8658ddb8ac2d5561fd7721c55955fe2047a8f72"
+
+[[files]]
+file = "config/snowundertrees.json5"
+hash = "d60bdb5fd34a8a8e718547da35a20f66e9be95082001342a254fb8c6e99c1e60"
+
+[[files]]
+file = "config/spark/activity.json"
+hash = "d69a291030f412938d4a42f9b815e1fb7042983480f2ddc106bffc1fc484ea5e"
+
+[[files]]
+file = "config/spark/config.json"
+hash = "992ba9f3a4a7ce3de112eb95575328956fdc3ce6781c455ebce7b23db7e7da42"
+
+[[files]]
+file = "config/spark/tmp/about.txt"
+hash = "8057ccf4540ea269b0fc332225859f44d8f3a55d891fa2e7a3447b6202658d2a"
+
+[[files]]
+file = "config/spark/tmp/spark-1cd6b433c7e21-libasyncProfiler.so.tmp"
+hash = "f0498d69de2f9156d779af7d30a385fbfd65b4cfde921bb7c9dd50bbacbf64b3"
+
+[[files]]
+file = "config/spark/tmp/spark-420d50250d7-libasyncProfiler.so.tmp"
+hash = "f0498d69de2f9156d779af7d30a385fbfd65b4cfde921bb7c9dd50bbacbf64b3"
+
+[[files]]
+file = "config/worldedit/worldedit.properties"
+hash = "c79d042bb765e940cc376ea12f991b298f256e49825b6c57e7c074b1686f370c"
+
+[[files]]
+file = "config/yosbr/config/c2me.toml"
+hash = "45c89b03fc4f9f62225edbd1196e591daf8fbe4170f73346f06cd5bc78f05194"
+
+[[files]]
+file = "config/yosbr/config/ferritecore.mixin.properties"
+hash = "1e0ba1e744212f481d857e2c864104eb8853a825f6557874b739763e208f7e59"
+
+[[files]]
+file = "config/yosbr/config/servercore.toml"
+hash = "4f5cd08148f87464a0f5e471787fd609a6546b653845954598e5a240b938a32d"
+
+[[files]]
+file = "config/yosbr/config/smoothboot.json"
+hash = "c37edec3875da8e561eb60bb7a18dcdce128cc41cfe26261c65a8e942f65d58f"
+
+[[files]]
+file = "config/yosbr/config/vmp.properties"
+hash = "0d0549563aca08c87a22a9fd862cc6e7a9906f2d6fca84dcbfa7cbec14dff7e6"
+
+[[files]]
+file = "config/yosbr/options.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "mods/additional-structures.pw.toml"
@@ -187,6 +487,11 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "8cd8f7a7a486065f4fafb0f841bc231b2542e13fe0795c8cb3af1735a83da013"
+metafile = true
+
+[[files]]
+file = "mods/realisticsleep.pw.toml"
+hash = "4d84f91e978bb90c2339fbd57b4e91a6eacf080713e2e96b77709eb859cfd348"
 metafile = true
 
 [[files]]

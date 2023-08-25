@@ -479,11 +479,6 @@ hash = "5ba85e15fd70b8f68009ec186702495fe611a7a8ef389a04e9eda57a55eca94e"
 metafile = true
 
 [[files]]
-file = "mods/image2map.pw.toml"
-hash = "5ba86432dafed77442fbc2ea11db62a15b1919e47656fda26c393b4ee62f6eca"
-metafile = true
-
-[[files]]
 file = "mods/immersive-paintings.pw.toml"
 hash = "bb8fc29d9c0d7ec7411ac5e48e380b3028cc3969d31b0f98a5415440da09c190"
 metafile = true

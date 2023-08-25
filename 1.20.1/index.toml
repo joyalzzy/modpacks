@@ -555,11 +555,6 @@ hash = "c9072b33298e95459c644344c8f8e7317a2f503a469e24bf51e63dca9c560db1"
 metafile = true
 
 [[files]]
-file = "mods/terra.pw.toml"
-hash = "cff35e3e7a0101a7460d91fff8c8611ad68c92283b468e7d75d166e01e6ff588"
-metafile = true
-
-[[files]]
 file = "mods/terrablender.pw.toml"
 hash = "a1fd826038c193e91c0ac45648b93721760c3e4f0fbddde169952e93bc348df7"
 metafile = true
@@ -587,11 +582,6 @@ metafile = true
 [[files]]
 file = "mods/when-dungeons-arise.pw.toml"
 hash = "80029fa0d159a61982f8f352fd634aa2ea3026605f4066d47f7d512b1cf17792"
-metafile = true
-
-[[files]]
-file = "mods/wwoo.pw.toml"
-hash = "566d54d31ab010faf4d878faf2ef843b7de2e397356dc1e348ca44a0fbef7e41"
 metafile = true
 
 [[files]]

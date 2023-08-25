@@ -306,7 +306,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "mods.txt"
-hash = "e815c9773273718e2a36df4beec0fa50296efaa45fd25ed24fa950fbf9a52d11"
+hash = "8f48f176309d7a83bbf2376f08f1014729a8de866540cbfb5062025194e5c4a0"
 
 [[files]]
 file = "mods/additional-structures.pw.toml"
@@ -324,13 +324,13 @@ hash = "2b66c02d4d4761a2a1ed805a391a9294ba29103182b86092423ca5c908421e8e"
 metafile = true
 
 [[files]]
-file = "mods/architects-palette-fabric.pw.toml"
-hash = "1a13f98cc2c94e4fd7993c731fb98aeb276c4a48bf41aeb023b806324ac5715f"
+file = "mods/architectury-api.pw.toml"
+hash = "a243675bc757485925b293932ee289b9fbcfb3b75bd3ba74eca7603f191cedad"
 metafile = true
 
 [[files]]
-file = "mods/architectury-api.pw.toml"
-hash = "a243675bc757485925b293932ee289b9fbcfb3b75bd3ba74eca7603f191cedad"
+file = "mods/async-locator.pw.toml"
+hash = "b0c84806bc32028e006144a81865ff5180614bb8146ffc265a905bb2c6c3e1bb"
 metafile = true
 
 [[files]]
@@ -356,11 +356,6 @@ metafile = true
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "d4e882278d0a8d863a069df56f6e473e81e79c48f8cc6e700a56f297847178ca"
-metafile = true
-
-[[files]]
-file = "mods/charm.pw.toml"
-hash = "ff8960a3bf63e66854c676cf1db8b88c6666bc526e3d3562be297d94c528472a"
 metafile = true
 
 [[files]]
@@ -469,6 +464,11 @@ hash = "dd95cf09d9a642a0914a01790dee89b72963e088a4ceb88e206efea6998b03a4"
 metafile = true
 
 [[files]]
+file = "mods/gotta-go-fast-fabric.pw.toml"
+hash = "6beecae4007fc03a0fc56f4c9338492852351422ecb50aa41e9c04b6c5e259d1"
+metafile = true
+
+[[files]]
 file = "mods/handcrafted.pw.toml"
 hash = "9db7f06dd55021ec4a9d3c104ff694184088f940db16ec39e6eb27d167203033"
 metafile = true
@@ -509,11 +509,6 @@ hash = "4a37864ebe44ddf66f7a127683adc76515d3dc97f8d8dba6fe362c43a1f39464"
 metafile = true
 
 [[files]]
-file = "mods/jcm.pw.toml"
-hash = "d0eb6f4cbe65b3894974dd83464464be1b3103fc42b6866da21317e7f03bb40f"
-metafile = true
-
-[[files]]
 file = "mods/krypton.pw.toml"
 hash = "71ef7cc16632c0039fe194183b5885968c6d740aaa67a58000653ae0cb40b882"
 metafile = true
@@ -549,8 +544,8 @@ hash = "4da733514ca3601f7a773759a6fc2ced2cc10d3d1f07b602d7b572da53a95849"
 metafile = true
 
 [[files]]
-file = "mods/mtr-nte.pw.toml"
-hash = "3e259460e9ddc91b8d5d870adc3854b3cd947247de34cd2bcfb561beb03e09bc"
+file = "mods/modernfix.pw.toml"
+hash = "8c5609126c7a8d38b68c4df16f9e505c5aacdeda05d7a55cb661872db3831ae4"
 metafile = true
 
 [[files]]
@@ -571,11 +566,6 @@ metafile = true
 [[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "83b476730dba8c3cdc9ee6ed4e0623f97bc116848aebfe3149eece321083b251"
-metafile = true
-
-[[files]]
-file = "mods/paladins-furniture.pw.toml"
-hash = "02d1024c42cd3671768a7b851a5dc95498b28b892581cd0969bf7c8a44277266"
 metafile = true
 
 [[files]]
@@ -701,6 +691,11 @@ metafile = true
 [[files]]
 file = "mods/vanilla-refresh.pw.toml"
 hash = "3dcaf68f7bcbdd4fe25af1ca2400a10952aae1514e87ff304fef91cfad271566"
+metafile = true
+
+[[files]]
+file = "mods/view-distance-fix.pw.toml"
+hash = "d516609512f43f65777600e5ef45dacedd6b1c8bc5311b757b6c342999f1d8d5"
 metafile = true
 
 [[files]]

@@ -22,7 +22,7 @@ hash = "be849ebc154c84986260430f6c52ba9c61aad140756b589d07169c2e3e80447e"
 
 [[files]]
 file = "config/antixray.toml"
-hash = "c60dd6a46e310909e669ce8d91e05d447a503ea4cc02c47dc3d022297635d41e"
+hash = "4cf211b2c7cf7a8e20ddb071927f56557f4115cd5c84691211061a16764ee841"
 
 [[files]]
 file = "config/axesareweapons.json5"
@@ -485,6 +485,11 @@ hash = "be14d9e96b119117afce2c77700bcae11d21cdc276471b54bbf3cf89496e2060"
 metafile = true
 
 [[files]]
+file = "mods/ping-wheel.pw.toml"
+hash = "175d182b49bb9da6b73e1a31e2ccc18395a167031fabda3991ae174e40813361"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "8cd8f7a7a486065f4fafb0f841bc231b2542e13fe0795c8cb3af1735a83da013"
 metafile = true
@@ -532,6 +537,11 @@ metafile = true
 [[files]]
 file = "mods/stellarity.pw.toml"
 hash = "fe8022c85a493055438172cdca2945f8bbc36d9d39a247df00e0670c7aaab585"
+metafile = true
+
+[[files]]
+file = "mods/syncmatica.pw.toml"
+hash = "80ab29cd4fa74c7d6f0cf3e8bd895888738a7c531658eeff2130d1e7b37c6bcf"
 metafile = true
 
 [[files]]

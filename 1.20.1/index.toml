@@ -290,7 +290,7 @@ hash = "56ef07ea78079bbd2e452724718d9816f1d69a4ddb4a111aaf6752cf6e9d5032"
 
 [[files]]
 file = "config/servercore.toml"
-hash = "f87b3b357e4cfa64b06b502adb51d19af5e57a6c7f3bb1c104778dfba0a60860"
+hash = "8d07c504c70af2036361b892c1495e437032569d6a6116a22505b1c83f28ae7b"
 
 [[files]]
 file = "config/sleepwarp-server.json"
@@ -431,11 +431,6 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "b6348f94ec939f563285dc96683e61da8fc17ab2f2897be2751fa24789513691"
-metafile = true
-
-[[files]]
-file = "mods/clumps.pw.toml"
-hash = "524505b468ca28db75538936dbaea65fc42d13d07e821ed8c054fe7146044535"
 metafile = true
 
 [[files]]
@@ -726,6 +721,11 @@ metafile = true
 [[files]]
 file = "mods/twigs.pw.toml"
 hash = "5eff195b29b04ef06e84dc37cf1c193b70ae90b365c2c5622b76397fbdda9f45"
+metafile = true
+
+[[files]]
+file = "mods/vanilla-refresh.pw.toml"
+hash = "3dcaf68f7bcbdd4fe25af1ca2400a10952aae1514e87ff304fef91cfad271566"
 metafile = true
 
 [[files]]

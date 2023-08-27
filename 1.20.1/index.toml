@@ -500,7 +500,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "ff4a66502e802341a84fbb8eceed65156b14436769b1f7e27a68b22fb59c1dae"
+hash = "6f95b9e670d557f852a798489d7b5ec48ed8ddc7e8e1809ff06d4b187d17aac9"
 metafile = true
 
 [[files]]
@@ -551,6 +551,11 @@ metafile = true
 [[files]]
 file = "mods/immersive-structures.pw.toml"
 hash = "87184da0fbda69dd2d209f9597beca5241893eb32e3e3d07356d1be3afa496b8"
+metafile = true
+
+[[files]]
+file = "mods/incendium.pw.toml"
+hash = "9b5d719c6cbc3da3995f00a0270b2ac200e5a2e6b3b0585c65727524b0f2d499"
 metafile = true
 
 [[files]]
@@ -659,6 +664,11 @@ hash = "31b3bcbde9677f9fc1006aab482e6f43b7552146359cc4ef363e30a237d1d12b"
 metafile = true
 
 [[files]]
+file = "mods/server-side-replay-recorder.pw.toml"
+hash = "2469845ebcf970f76d6016fd297fd6efdbecff124ff85752b3b771b57fcd3230"
+metafile = true
+
+[[files]]
 file = "mods/servercore.pw.toml"
 hash = "b5a0689c8ca4d98adb7dfe35df4bc6a1dceac5c4b792e5fbb0ad5290991e2684"
 metafile = true
@@ -676,6 +686,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "7ca0983d3b7852c06f84c66b9f12da8115ff9b8ba63293cd20452377a0de726e"
+metafile = true
+
+[[files]]
+file = "mods/spellbound-weapons.pw.toml"
+hash = "f5ab1bfd9c063521ac2449d65bffff1bb0352b484eab5341d8883f136e1305fc"
 metafile = true
 
 [[files]]

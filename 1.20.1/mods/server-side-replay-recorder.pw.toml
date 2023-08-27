@@ -1,0 +1,13 @@
+name = "thecolonel63's Server Side Replay Recorder"
+filename = "serversidereplayrecorder-1.1.6-mc1.20.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/i7rbL330/versions/FIO5FMLq/serversidereplayrecorder-1.1.6-mc1.20.jar"
+hash-format = "sha1"
+hash = "18403cd3d773f92e902234c82e0e04cae74b39a1"
+
+[update]
+[update.modrinth]
+mod-id = "i7rbL330"
+version = "FIO5FMLq"

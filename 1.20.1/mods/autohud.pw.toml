@@ -1,0 +1,14 @@
+name = "Auto HUD"
+filename = "autohud-6.1+1.20-fabric.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/temczoTQ/versions/SlKgUH2p/autohud-6.1%2B1.20-fabric.jar"
+hash-format = "sha512"
+hash = "c8077aabd9c844dbfa8cd8598093f6279655c40a89b035804aa738d970d6419d8a8fc4bd36ced1ea5d379dcd255cf2014e3aa9e8d400c34fab80bb34c920296c"
+
+[update]
+[update.modrinth]
+mod-id = "temczoTQ"
+version = "SlKgUH2p"

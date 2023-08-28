@@ -1,0 +1,14 @@
+name = "Syncmatica"
+filename = "syncmatica-1.20.1-0.3.10.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/bfneejKo/versions/chakoRye/syncmatica-1.20.1-0.3.10.jar"
+hash-format = "sha512"
+hash = "a19063243f9bc751f7b9926d011eb1c1ffebe94f16f808982f3f6456cde15153e96a6aec297fdb794f90295c9bdeb5390d287c0a05a0f81b632355009c29b768"
+
+[update]
+[update.modrinth]
+mod-id = "bfneejKo"
+version = "chakoRye"

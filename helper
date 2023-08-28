@@ -30,15 +30,14 @@ update () {
   cd $WKDIR/modified/1.20.1
   cp $WKDIR/1.20.1/pack.toml .
   touch index.toml
-  echo packwiz
-  packwiz init
+  echo packwiz 
   packwiz refresh
   echo exporting modrinth
   packwiz modrinth export
   echo installing pack
   $WKDIR/mrpack-install-linux ./*.mrpack
   echo zipping pack
-  zip mc/mods/* --out $WKDIR/mods.zip
+  zip -j mc/mods/*.jar --out $WKDIR/mods.zip
 
 #  cleanup
 }

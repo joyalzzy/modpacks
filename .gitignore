@@ -4,3 +4,5 @@
 modified
 # Exclude exported Modrinth modpacks
 *.mrpack
+mrpack-install-linux
+

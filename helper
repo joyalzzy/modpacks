@@ -1,0 +1,56 @@
+#!/bin/bash
+set -e
+WKDIR=$(git rev-parse --show-toplevel)
+echo setting workdir to $WKDIR
+
+
+add () {
+	while read p; do
+	  echo "adding $p"
+	  packwiz modrinth add -y $p 
+	done < $1
+}
+
+configgrab () {
+	set -o allexport; source .env; set +o allexport
+scp $SSH:$FOLDER/config/$1 .
+}
+
+update () {
+  changelog $1
+  read -p 'generate for this: [Y,N] ' yn
+  if [[ ! $yn = "Y"  ]]
+  then
+    echo canceled
+#    exit 1
+    [[ "$0" = "$BASH_SOURCE" ]] && exit 1 || return 1
+  fi 
+  mkdir $WKDIR/modified
+  cp -v --parents -r $(git diff --name-only --diff-filter=AM HEAD~$1 1.20.1/mods) $WKDIR/modified
+  cd $WKDIR/modified/1.20.1
+  cp $WKDIR/1.20.1/pack.toml .
+  touch index.toml
+  echo packwiz
+  packwiz init
+  packwiz refresh
+  echo exporting modrinth
+  packwiz modrinth export
+  echo installing pack
+  $WKDIR/mrpack-install-linux ./*.mrpack
+  echo zipping pack
+  zip mc/mods/* --out $WKDIR/mods.zip
+
+#  cleanup
+}
+
+cleanup () {
+  echo cleaning up
+  rm $WKDIR/modified -rf
+}
+
+changelog () {
+  echo generating changelog
+  $WKDIR/scripts/changelog.py $1
+}
+
+$1 $2

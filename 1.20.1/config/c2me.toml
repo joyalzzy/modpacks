@@ -60,7 +60,7 @@ defaultGlobalExecutorParallelismExpression = "default"
 	#  This will send chunks twice increasing network load
 	ensureChunkCorrectness = "default"
 	# (Default: true) Whether to enable no-tick view distance
-	enabled = "false"
+	enabled = false
 
 [generalOptimizations]
 	# (Default: 100000) The task interval of mid-tick chunk tasks in nanoseconds (-1 to disable)  

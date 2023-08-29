@@ -93,6 +93,10 @@ file = "config/forgeconfigapiport.toml"
 hash = "2ba5e0623a6b831434046f4f1618a2bee57cb3f08a9d740bb6b38b0943612c9e"
 
 [[files]]
+file = "config/fwaystones/config.json5"
+hash = "817a96dd69f9edf97e63fae227785a09a7f32256989fa146505eb31c1ef876e6"
+
+[[files]]
 file = "config/global_data_and_resourcepacks.toml"
 hash = "d6055224690c399a9657218b8fcb9fa2ff1f33a5f83e7a383f4b6aae835938d5"
 

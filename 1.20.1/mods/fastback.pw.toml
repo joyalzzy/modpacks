@@ -1,0 +1,13 @@
+name = "Fast Backups"
+filename = "fastback-0.15.4+1.20.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZHKrK8Rp/versions/HA7WOg6L/fastback-0.15.4%2B1.20.1-fabric.jar"
+hash-format = "sha1"
+hash = "8e87568f96bf275e8203087172fababc02212596"
+
+[update]
+[update.modrinth]
+mod-id = "ZHKrK8Rp"
+version = "HA7WOg6L"

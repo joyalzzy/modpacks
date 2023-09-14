@@ -759,6 +759,11 @@ hash = "8e79fdfa0ea30a98f50157c9c6b9d3bc24a34706956d62a8d839f5e97e0a9cdb"
 metafile = true
 
 [[files]]
+file = "mods/wets.pw.toml"
+hash = "2eb2e807f1cc899706436e28617257b3c8034edf23b63612d850c28f3ea91325"
+metafile = true
+
+[[files]]
 file = "mods/when-dungeons-arise.pw.toml"
 hash = "80029fa0d159a61982f8f352fd634aa2ea3026605f4066d47f7d512b1cf17792"
 metafile = true

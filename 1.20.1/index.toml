@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "automodpack/automodpack-server.json"
+hash = "f365a3b2bd44cf3571280e1b66906871aa53be98881919423a67366a13b1b9ff"
+
+[[files]]
 file = "config/Adorn.json5"
 hash = "cfcc5c69d5ad77f3d96ecf30e4621578ccc55129caeb819d4de0a4e46c62c8a6"
 
@@ -495,6 +499,11 @@ metafile = true
 [[files]]
 file = "mods/attributefix.pw.toml"
 hash = "745b517eb12ee4d2845e76727d53da146943fdd29867b960c5d7bb2008e08da6"
+metafile = true
+
+[[files]]
+file = "mods/automodpack.pw.toml"
+hash = "1493c01c46378f3c2189eae87692190d60d2e20e9d510378cf93d2427495544c"
 metafile = true
 
 [[files]]

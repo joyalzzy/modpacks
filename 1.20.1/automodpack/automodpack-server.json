@@ -1,0 +1,29 @@
+{
+  "modpackName": "",
+  "modpackHost": true,
+  "generateModpackOnStart": true,
+  "syncedFiles": [
+    "/mods/"
+  ],
+  "excludeSyncedFiles": [
+    "/mods/syncmatica-*.jar",
+    "luckperms"
+    "luckperms*.jar"
+  ],
+  "allowEditsInFiles": [
+    "/options.txt"
+  ],
+  "optionalModpack": false,
+  "autoExcludeServerSideMods": true,
+  "hostThreads": 8,
+  "hostIp": "chill.mc.ipiss.art:30037",
+  "hostLocalIp": "172.18.0.2",
+  "updateIpsOnEveryStart": false,
+  "hostPort": 30037,
+  "reverseProxy": true,
+  "externalModpackHostLink": "",
+  "selfUpdater": true,
+  "acceptedLoaders": [
+    "fabric"
+  ]
+}

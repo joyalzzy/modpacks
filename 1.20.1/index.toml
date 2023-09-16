@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "automodpack/automodpack-server.json"
-hash = "f365a3b2bd44cf3571280e1b66906871aa53be98881919423a67366a13b1b9ff"
+hash = "227613bffc68333877e6b71686411a47907ef6947171f719cdf21a510f460e91"
 
 [[files]]
 file = "config/Adorn.json5"

@@ -1,13 +1,13 @@
 name = "AutoModpack"
-filename = "automodpack-mc1.20.1-fabric-3.5.1.jar"
+filename = "automodpack-mc1.20.1-fabric-3.5.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/k68glP2e/versions/Uzn9ehJE/automodpack-mc1.20.1-fabric-3.5.1.jar"
+url = "https://cdn.modrinth.com/data/k68glP2e/versions/6Bpyeg6f/automodpack-mc1.20.1-fabric-3.5.2.jar"
 hash-format = "sha1"
-hash = "550bfce1dfe7a38103053df3e353d3ddcda00e0e"
+hash = "4a3b900fba2513fdf5f1f60a21f569bc062fc7bc"
 
 [update]
 [update.modrinth]
 mod-id = "k68glP2e"
-version = "Uzn9ehJE"
+version = "6Bpyeg6f"

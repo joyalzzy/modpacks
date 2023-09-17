@@ -503,7 +503,7 @@ metafile = true
 
 [[files]]
 file = "mods/automodpack.pw.toml"
-hash = "1493c01c46378f3c2189eae87692190d60d2e20e9d510378cf93d2427495544c"
+hash = "411e44f5cc7aa25076b96e191b4f8aeff5eded67741d26ec0c0707d45121185a"
 metafile = true
 
 [[files]]

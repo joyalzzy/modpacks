@@ -360,11 +360,6 @@ hash = "d7c1ff0046ba7df39dd278125a3c4976e6427c55b35a9c90b74f4ca78c890a36"
 metafile = true
 
 [[files]]
-file = "mods/even-better-archeology.pw.toml"
-hash = "28a8253ebca33110752ebc9ec869ca4862cf4aa8871aeb746a2698ac28fd795d"
-metafile = true
-
-[[files]]
 file = "mods/every-compat.pw.toml"
 hash = "417d8c6a5c32d7bcbd36a5f8c04e7f6722ffb8020ce31ef29537fc54debbe786"
 metafile = true

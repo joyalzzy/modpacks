@@ -1,0 +1,13 @@
+name = "In-Game NBTEdit Reborn"
+filename = "nbtedit-1.20.1-4.4.2-release-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Vr2eDeCw/versions/IOF2qMbW/nbtedit-1.20.1-4.4.2-release-fabric.jar"
+hash-format = "sha1"
+hash = "f2f8ff7fd9794735f06b11e516a95154467977df"
+
+[update]
+[update.modrinth]
+mod-id = "Vr2eDeCw"
+version = "IOF2qMbW"

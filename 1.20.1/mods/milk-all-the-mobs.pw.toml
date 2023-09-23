@@ -1,0 +1,13 @@
+name = "Milk All The Mobs"
+filename = "milkallthemobs-1.20.1-3.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qRidloO4/versions/enXPEnuP/milkallthemobs-1.20.1-3.0.jar"
+hash-format = "sha1"
+hash = "048ab4c11289f6335352e8252c1a4497551a1746"
+
+[update]
+[update.modrinth]
+mod-id = "qRidloO4"
+version = "enXPEnuP"

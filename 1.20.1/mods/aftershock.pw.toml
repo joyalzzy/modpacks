@@ -1,0 +1,13 @@
+name = "Aftershock"
+filename = "aftershock-1.20.1-0.0.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/5mniBzZH/versions/IsfCfBK1/aftershock-1.20.1-0.0.5.jar"
+hash-format = "sha1"
+hash = "8e165a443cd21b4b49c86433112b31df47f68132"
+
+[update]
+[update.modrinth]
+mod-id = "5mniBzZH"
+version = "IsfCfBK1"

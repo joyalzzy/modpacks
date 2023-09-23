@@ -1,0 +1,13 @@
+name = "Gigeresque"
+filename = "gigeresque-1.20.1-0.5.52.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2kXK3iBI/versions/NYT8I14D/gigeresque-1.20.1-0.5.52.jar"
+hash-format = "sha1"
+hash = "681aa3e911947c5de42e7bd2f7ad43741245f10e"
+
+[update]
+[update.modrinth]
+mod-id = "2kXK3iBI"
+version = "NYT8I14D"

@@ -1,55 +1,99 @@
 #!/bin/bash
-set -e
+set -e; 	set -o allexport; source .env; set +o allexport
+_WK=$PWD
 WKDIR=$(git rev-parse --show-toplevel)
-echo setting workdir to $WKDIR
 
+echo setting workdir to "$WKDIR"
+cd "$WKDIR"
 
 add () {
-	while read p; do
-	  echo "adding $p"
-	  packwiz modrinth add -y $p 
-	done < $1
+  cd "1.20.1"
+  for i in "$@"; do
+    if [[ $i == *"curseforge.com"* ]]; then
+      echo "adding $i for curse"
+      packwiz curseforge add -y "$i"
+      # Perform actions for curseforge.com here
+    elif [[ $i == *"modrinth.com"* ]]; then
+      echo "adding $i for modrinth"
+      packwiz modrinth add -y "$i"
+      # Perform actions for modrinth.com here
+    else
+      echo "uh"
+    fi
+  done
+ 
+#	packwiz modrinth add -y $p 
 }
 
 configgrab () {
-	set -o allexport; source .env; set +o allexport
-scp $SSH:$FOLDER/config/$1 .
+
+  scp "$SSH":"$FOLDER"/config/"$1" .
 }
 
 update () {
-  changelog $1
-  read -p 'generate for this: [Y,N] ' yn
+  changelog "$1"
+  read -rp 'generate for this: [Y,N] ' yn
   if [[ ! $yn = "Y"  ]]
   then
     echo canceled
 #    exit 1
     [[ "$0" = "$BASH_SOURCE" ]] && exit 1 || return 1
   fi 
-  mkdir $WKDIR/modified
-  cp -v --parents -r $(git diff --name-only --diff-filter=AM HEAD~$1 1.20.1/mods) $WKDIR/modified
-  cd $WKDIR/modified/1.20.1
-  cp $WKDIR/1.20.1/pack.toml .
+  mkdir "$WKDIR"/modified
+  cp -v --parents -r "$(git diff --name-only --diff-filter=AM HEAD~"$1" 1.20.1/mods)" "$WKDIR"/modified
+  cd "$WKDIR"/modified/1.20.1
+  cp "$WKDIR"/1.20.1/pack.toml .
   touch index.toml
-  echo packwiz 
+
+  echo packwiz
   packwiz refresh
   echo exporting modrinth
   packwiz modrinth export
   echo installing pack
-  $WKDIR/mrpack-install-linux ./*.mrpack
+  "$WKDIR"/mrpack-install-linux ./*.mrpack
   echo zipping pack
-  zip -rj $WKDIR/mods.zip mc/mods/*
+  # zip mc/mods/* --out $WKDIR/mods.zip
+
+  zip -rj "$WKDIR"/mods.zip mc/mods/*
+
 
 #  cleanup
 }
 
 cleanup () {
   echo cleaning up
-  rm $WKDIR/modified -rf
+  rm "$WKDIR"/modified -rf
 }
 
 changelog () {
   echo generating changelog
-  $WKDIR/scripts/changelog.py $1
+  "$WKDIR"/scripts/changelog.py "$1"
 }
 
-$1 $2
+changelog-test () {
+  echo generating 
+  "$WKDIR"/scripts/changelog.py "$1" vanilla
+}
+
+gen-patch () {
+  git diff "$ANCHOR" -- "1.20.1/config" > patches/config.patch
+  git add patches/config.patch
+}
+
+run () {
+  mkdir -p ./tmp/data
+  docker run --rm --name generate-configs -v ./tmp/data:/data -v "./1.20.1:/packwiz-modpack:ro" -e TYPE=FABRIC \
+    -e "UID=1000" \
+    -e "GID=1000" \
+    -e "EULA=TRUE" \
+    -e "VERSION=1.20.1" \
+    -e "PACKWIZ_URL=file:///packwiz-modpack/pack.toml" \
+    -e "MEMORY=5G" \
+    itzg/minecraft-server   
+}
+
+test () {
+  echo "$@"
+}
+
+$1 "${@:2}"

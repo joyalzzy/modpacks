@@ -1,13 +1,13 @@
 name = "Simple Copper Pipes"
-filename = "SimpleCopperPipes-1.13.4.jar"
+filename = "SimpleCopperPipes-1.13.6.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/9r4ZkgSN/versions/REsjlj43/SimpleCopperPipes-1.13.4.jar"
+url = "https://cdn.modrinth.com/data/9r4ZkgSN/versions/FKt8JNOd/SimpleCopperPipes-1.13.6.jar"
 hash-format = "sha1"
-hash = "feb7c948939aac8b9ca5c53448048008c9cab317"
+hash = "f5d5cf8d32fc083d383167ca7a2e13d055468bf6"
 
 [update]
 [update.modrinth]
 mod-id = "9r4ZkgSN"
-version = "REsjlj43"
+version = "FKt8JNOd"

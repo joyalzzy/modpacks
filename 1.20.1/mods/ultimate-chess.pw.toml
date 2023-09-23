@@ -1,0 +1,13 @@
+name = "Ultimate Chess"
+filename = "chessmod-fabric-1.1.3-1.20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/CXKUu3x4/versions/Vgs0Ogkf/chessmod-fabric-1.1.3-1.20.jar"
+hash-format = "sha1"
+hash = "9dad69e757f2f2e070da064a11b29a7e462d6725"
+
+[update]
+[update.modrinth]
+mod-id = "CXKUu3x4"
+version = "Vgs0Ogkf"

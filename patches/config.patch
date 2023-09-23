@@ -1,0 +1,63 @@
+diff --git a/1.20.1/config/.gitignore b/1.20.1/config/.gitignore
+new file mode 100644
+index 0000000..a191d37
+--- /dev/null
++++ b/1.20.1/config/.gitignore
+@@ -0,0 +1,2 @@
++luckperms/translations
++spark/tmp/
+diff --git a/1.20.1/config/c2me.toml b/1.20.1/config/c2me.toml
+index 4b01e1b..df0c3d7 100644
+--- a/1.20.1/config/c2me.toml
++++ b/1.20.1/config/c2me.toml
+@@ -38,13 +38,6 @@ defaultGlobalExecutorParallelismExpression = "default"
+ 	enabled = true
+ 
+ [fixes]
+-	# (Default: true)  
+-	#  Whether to disable the shutdown hook of log4j2 on dedicated servers.
+-	#  Enabling this also makes the JVM exit when the dedicated server is considered fully shut down.
+-	#  This option have no effect on client-side.
+-	#  We has historically been doing this, and this config option allows you to disable this behavior.
+-	# 
+-	disableLoggingShutdownHook = "default"
+ 	# (Default: true) Enforces safe world random access.  
+ 	# This feature detects unsafe off-thread world random access, helping to find the causes  
+ 	# of mysterious "Accessing LegacyRandomSource from multiple threads" crash.  
+@@ -122,8 +115,6 @@ defaultGlobalExecutorParallelismExpression = "default"
+ 	# Whether to use the fast reduced allocation chunk serializer
+ 	# (may cause incompatibility with other mods)
+ 	# 
+-	# Set to false for the following reasons: 
+-	# Incompatible with architectury@9.1.12 (*) (defined in c2me) 
+ 	gcFreeChunkSerializer = "default"
+ 	# (Default: true) Whether to use the optimized implementation of IO system
+ 	replaceImpl = "default"
+diff --git a/1.20.1/config/modernfix-mixins.properties b/1.20.1/config/modernfix-mixins.properties
+index 60acb99..ed01a90 100644
+--- a/1.20.1/config/modernfix-mixins.properties
++++ b/1.20.1/config/modernfix-mixins.properties
+@@ -57,7 +57,7 @@
+ #  mixin.perf.remove_spawn_chunks=false # (default)
+ #  mixin.perf.resourcepacks=true # (default)
+ #  mixin.perf.state_definition_construct=true # (default)
+-#  mixin.perf.thread_priorities=true # (default)
++#  mixin.perf.thread_priorities=false # (overridden for mod compat)
+ #  mixin.safety=true # (default)
+ #
+ # User overrides go here.
+diff --git a/1.20.1/config/vmp.properties b/1.20.1/config/vmp.properties
+index 3277e9b..14f13a1 100644
+--- a/1.20.1/config/vmp.properties
++++ b/1.20.1/config/vmp.properties
+@@ -1,9 +1,8 @@
+ #Configuration file for VMP
+-#Fri Sep 15 20:20:47 SGT 2023
++#Wed Aug 23 19:19:58 SGT 2023
+ deprecated_precache_biome_lookup=false
+ use_async_portals=true
+ use_async_chunks_on_login=true
+-show_chunk_tracking_messages=true
+ show_async_loading_messages=false
+ use_async_logging=true
+ use_async_chunks_on_some_commands=false

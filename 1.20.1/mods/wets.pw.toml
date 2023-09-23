@@ -1,0 +1,13 @@
+name = "WETS (WorldEdit Tick Spreader)"
+filename = "WETS-0.0.4-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/S0GwusT4/versions/MLaVuKwE/WETS-0.0.4-fabric.jar"
+hash-format = "sha1"
+hash = "a3ef00c051d50b2c7b3fbbdd5929ab6cc798481c"
+
+[update]
+[update.modrinth]
+mod-id = "S0GwusT4"
+version = "MLaVuKwE"

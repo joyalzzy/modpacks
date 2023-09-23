@@ -1,0 +1,13 @@
+name = "A Cute Little Crock Pot"
+filename = "crockpot-1.13.3+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vLvLjFmc/versions/tXUsclZB/crockpot-1.13.3%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "8e05bbcada4e90396ab95474e50b87487ed5764c"
+
+[update]
+[update.modrinth]
+mod-id = "vLvLjFmc"
+version = "tXUsclZB"

@@ -30,7 +30,13 @@ def getdel(f: str):
         
 #print(sys.argv)
 os.chdir(getroot())
-logs = subprocess.run(["git", "diff", "--name-status",  f"HEAD~{sys.argv[1]}"], capture_output=True).stdout.decode('ascii').strip()
+try:
+
+    exists = sys.argv[2]
+except:
+    exists = "HEAD"
+print(f"diffing {exists} to branch")
+logs = subprocess.run(["git", "diff", "--name-status",  f"{exists}~{sys.argv[1]}"], capture_output=True).stdout.decode('ascii').strip()
 logs = filter(lambda x: '1.20.1/mods' in x, logs.split('\n'))
 changes = map(lambda y: [f"added {getdat(y[2 : None])[0]}", f"removed {getdel(y[2: None])[0]}", f"modified {getdel(y[2: None])[0]}"][np.where([y.startswith('A'),y.startswith('D'),y.startswith('M')])[0][0]],logs)
 print("\n".join(list(changes)))

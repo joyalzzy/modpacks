@@ -1,0 +1,13 @@
+name = "Endgame Reborn Knives"
+filename = "endgame-reborn-knives-1.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6A4nrLeH/versions/271qcq3J/endgame-reborn-knives-1.2.1.jar"
+hash-format = "sha1"
+hash = "84f34535a018af826d76e6ba93f20bfe7b97307b"
+
+[update]
+[update.modrinth]
+mod-id = "6A4nrLeH"
+version = "271qcq3J"

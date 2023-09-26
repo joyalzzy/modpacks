@@ -765,11 +765,6 @@ hash = "31b3bcbde9677f9fc1006aab482e6f43b7552146359cc4ef363e30a237d1d12b"
 metafile = true
 
 [[files]]
-file = "mods/rings-of-ascension.pw.toml"
-hash = "18a86c29d274fa370e53171f39299769c85d1aec34e7ab17ff36f28e4b7c7e5f"
-metafile = true
-
-[[files]]
 file = "mods/sandwichable.pw.toml"
 hash = "f940a85f7fce47ee3228e10dfde0c7a818d5464337bb8ba0b7074b421975e359"
 metafile = true

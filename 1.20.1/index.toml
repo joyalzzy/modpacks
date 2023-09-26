@@ -480,11 +480,6 @@ hash = "ce46f117a69cf45250fe90a6a9d964c3fbae3a80abc3a21ab94f68d453dbb3bf"
 metafile = true
 
 [[files]]
-file = "mods/gigeresque.pw.toml"
-hash = "d6d3d1286ea065508c95a6e0be609b2dfe731a7b967b4fe2ae647a1b5f623cac"
-metafile = true
-
-[[files]]
 file = "mods/globalpacks.pw.toml"
 hash = "4b53ac7cb930ed484a8e8c8d6d52cc3cd5994f0eb012dd3ac3822cec22c266cd"
 metafile = true

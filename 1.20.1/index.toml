@@ -295,8 +295,8 @@ hash = "e6cd8a58a2938b799035c66df16b440db0edf09c798978b8e857a6a27e8a6474"
 metafile = true
 
 [[files]]
-file = "mods/death-backup.pw.toml"
-hash = "abe0735af4a121e00bbf54b00f350f8cf09fd1ad69687bbd34a3f346a511baa5"
+file = "mods/deathlog.pw.toml"
+hash = "b02739fbdc676c7561a500ad26aa59802b463e08d637d261b247a544f788d585"
 metafile = true
 
 [[files]]

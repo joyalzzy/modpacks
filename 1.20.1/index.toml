@@ -5,12 +5,17 @@ file = "automodpack/automodpack-server.json"
 hash = "a3955de5afe997a72904d4256863ed5299dfa92ddb444b0d360c7394498b6d68"
 
 [[files]]
-file = "datapacks/repurposed-structures-chefs-delight-compat.pw.toml"
+file = "config/paxi/datapacks/endgame-reborn-compat.pw.toml"
+hash = "e1f782c9f8db5fbedcdac971144797c96d1bc4285220959fe34eae604e35292a"
+metafile = true
+
+[[files]]
+file = "config/paxi/datapacks/repurposed-structures-chefs-delight-compat.pw.toml"
 hash = "510da1592f4dbd877fce5fe5816cb333a10b24740b95f7acbad0654afab90d6c"
 metafile = true
 
 [[files]]
-file = "datapacks/towers-of-the-wild-reworked.pw.toml"
+file = "config/paxi/datapacks/towers-of-the-wild-reworked.pw.toml"
 hash = "b70ebb349dffc58c7c7d88cb763a7824fa1bba23bf4010370d388310ebeebe49"
 metafile = true
 
@@ -690,6 +695,11 @@ hash = "cd1f0cf0ae2b6e1c14e3caa4685ae721cb590835110e076400cd986be1db9903"
 metafile = true
 
 [[files]]
+file = "mods/paxi.pw.toml"
+hash = "e1434c282fc8d1d6d681838689200f09ffb94a7d3db112de72050597cbd70210"
+metafile = true
+
+[[files]]
 file = "mods/philips-ruins.pw.toml"
 hash = "b9f30b4a5c012e0fda0863b9373beec7357b31485666c53a7ae6bb2d04d32e4d"
 metafile = true
@@ -987,6 +997,11 @@ metafile = true
 [[files]]
 file = "mods/yosbr.pw.toml"
 hash = "6f6334f336a876088431df70e2bba6ac52ca2ddeb73a4880ce88d6954b09af00"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api.pw.toml"
+hash = "b9ffba892e9f541bbffc0fc9dc4360732e9edeb7d2d4560191fc08e457c9d372"
 metafile = true
 
 [[files]]
